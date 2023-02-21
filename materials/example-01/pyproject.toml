@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "geo-knowledge-hub-workshop-example-01"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+geo-package-loader = {git = "https://github.com/geo-knowledge-hub/geo-package-loader.git"}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
