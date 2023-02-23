@@ -1,0 +1,186 @@
+{
+    "access": {
+      "embargo": {
+        "active": false,
+        "reason": null
+      },
+      "files": "public",
+      "record": "public",
+      "status": "metadata-only"
+    },
+    "files": {
+      "enabled": true,
+      "order": []
+    },
+    "metadata": {
+      "creators": [
+        {
+          "person_or_org": {
+            "family_name": "Simoes",
+            "given_name": "Rolf",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0953-4132",
+                "scheme": "orcid"
+              }
+            ],
+            "name": "Simoes, Rolf",
+            "type": "personal"
+          }
+        },
+        {
+          "person_or_org": {
+            "family_name": "Camara",
+            "given_name": "Gilberto",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3681-487X",
+                "scheme": "orcid"
+              }
+            ],
+            "name": "Camara, Gilberto",
+            "type": "personal"
+          }
+        },
+        {
+          "person_or_org": {
+            "family_name": "Queiroz",
+            "given_name": "Gilberto",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7534-0219",
+                "scheme": "orcid"
+              }
+            ],
+            "name": "Queiroz, Gilberto",
+            "type": "personal"
+          }
+        },
+        {
+          "person_or_org": {
+            "family_name": "Souza",
+            "given_name": "Felipe",
+            "name": "Souza, Felipe",
+            "type": "personal"
+          }
+        },
+        {
+          "person_or_org": {
+            "family_name": "Andrade",
+            "given_name": "Pedro",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8675-4046",
+                "scheme": "orcid"
+              }
+            ],
+            "name": "Andrade, Pedro",
+            "type": "personal"
+          }
+        },
+        {
+          "person_or_org": {
+            "family_name": "Santos",
+            "given_name": "Lorena",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2612-5859",
+                "scheme": "orcid"
+              }
+            ],
+            "name": "Santos, Lorena",
+            "type": "personal"
+          }
+        },
+        {
+          "person_or_org": {
+            "family_name": "Carvalho",
+            "given_name": "Alexandre",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8762-5465",
+                "scheme": "orcid"
+              }
+            ],
+            "name": "Carvalho, Alexandre",
+            "type": "personal"
+          }
+        },
+        {
+          "person_or_org": {
+            "family_name": "Ferreira",
+            "given_name": "Karine",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2656-5504",
+                "scheme": "orcid"
+              }
+            ],
+            "name": "Ferreira, Karine",
+            "type": "personal"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        }
+      ],
+      "publication_date": "2023-02-23",
+      "publisher": "GEO Knowledge Hub",
+      "resource_type": {
+        "id": "software",
+        "title": {
+          "en": "Software"
+        }
+      },
+      "subjects": [
+        {
+          "subject": "big Earth observation data"
+        },
+        {
+          "subject": "data cubes"
+        },
+        {
+          "subject": "satellite image time series"
+        },
+        {
+          "subject": "machine learning and deep learning for remote sensing"
+        },
+        {
+          "subject": "R package"
+        },
+        {
+          "subject": "deforestation"
+        },
+        {
+          "subject": "lulc"
+        },
+        {
+          "subject": "classification"
+        }
+      ],
+      "title": "Trained classification model"
+    },
+    "parent": {
+      "access": {
+        "links": [],
+        "owned_by": [
+          {
+            "user": 2
+          }
+        ]
+      },
+      "communities": {},
+      "id": "dsqxz-kgj09",
+      "relationship": {
+        "managed_by": {
+          "id": "v9kb1-56p71"
+        }
+      },
+      "type": "resource"
+    }
+  }
