@@ -1,0 +1,73 @@
+{
+    "knowledge_package": {
+       "metadata_file":"metadata/package/metadata.json",
+       "files":[
+          "files/documents/knowledge-package-overview.pdf"
+       ],
+       "options":{
+          "include_doi":true
+       }
+    },
+    "resources": [
+        {
+            "metadata_file":"metadata/resources/samples/metadata.json",
+            "files":[
+               "files/data/samples/samples_prodes_4classes.csv"
+            ],
+            "options": {
+               "include_doi": true
+            }
+        },
+        {
+            "metadata_file":"metadata/resources/classification-model/metadata.json",
+            "files":[
+               "files/data/results/classification-model/ltae_model_trained.rds"
+            ],
+            "options": {
+               "include_doi": true
+            }
+        },
+        {
+            "metadata_file":"metadata/resources/classification-map/metadata.json",
+            "files":[
+               "files/data/results/classification-map/SENTINEL-2_MSI_20LKP_2020-06-04_2021-08-26_class_no_smooth.tif",
+               "files/data/results/classification-map/SENTINEL-2_MSI_20LKP_2020-06-04_2021-08-26_probs_ltae.tif",
+               "files/data/results/classification-map-smooth/SENTINEL-2_MSI_20LKP_2020-06-04_2021-08-26_bayes_bayes_w9_s20.tif",
+               "files/data/results/classification-map-smooth/SENTINEL-2_MSI_20LKP_2020-06-04_2021-08-26_class_bayes_w9_s20.tif"
+            ],
+            "options": {
+               "include_doi": true
+            }
+        },
+        {
+            "metadata_file":"metadata/resources/datacube/metadata.json",
+            "files":[
+               "files/data/datacube/datacube-sentinel2.zip"
+            ],
+            "options": {
+               "include_doi": false
+            }
+        },
+        {
+            "metadata_file":"metadata/resources/documentation/metadata.json",
+            "options": {
+               "include_doi": false
+            }
+        },
+        {
+            "metadata_file":"metadata/resources/article/metadata.json",
+            "options": {
+               "include_doi": false
+            }
+        },
+        {
+            "metadata_file":"metadata/resources/scripts/metadata.json",
+            "files":[
+               "files/scripts/deforestation-classification.zip"
+            ],
+            "options": {
+               "include_doi": true
+            }
+        }
+    ]
+ }

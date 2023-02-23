@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "geo-knowledge-hub-workshop-example-01"
+name = "deforestation-detection"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
-license = "MIT"
+description = "Deforestation detection example for the GEO Knowledge Hub workshop"
+authors = ["GEO Knowledge Hub Team"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
 geo-package-loader = {git = "https://github.com/geo-knowledge-hub/geo-package-loader.git"}
+
 
 [build-system]
 requires = ["poetry-core"]
