@@ -61,20 +61,6 @@
     "creators": [
       {
         "person_or_org": {
-          "given_name": "Rolf",
-          "type": "personal",
-          "name": "Simoes, Rolf",
-          "identifiers": [
-            {
-              "scheme": "orcid",
-              "identifier": "0000-0003-0953-4132"
-            }
-          ],
-          "family_name": "Simoes"
-        }
-      },
-      {
-        "person_or_org": {
           "given_name": "Gilberto",
           "type": "personal",
           "name": "Camara, Gilberto",
@@ -89,16 +75,16 @@
       },
       {
         "person_or_org": {
-          "given_name": "Gilberto",
+          "given_name": "Rolf",
           "type": "personal",
-          "name": "Queiroz, Gilberto",
+          "name": "Simoes, Rolf",
           "identifiers": [
             {
               "scheme": "orcid",
-              "identifier": "0000-0001-7534-0219"
+              "identifier": "0000-0003-0953-4132"
             }
           ],
-          "family_name": "Queiroz"
+          "family_name": "Simoes"
         }
       },
       {
@@ -107,6 +93,22 @@
           "type": "personal",
           "name": "Souza, Felipe",
           "family_name": "Souza"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Alber",
+          "type": "personal",
+          "name": "Sanchez, Alber",
+          "family_name": "Sanchez"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Charlotte",
+          "type": "personal",
+          "name": "Pelletier, Charlotte",
+          "family_name": "Pelletier"
         }
       },
       {
@@ -125,30 +127,16 @@
       },
       {
         "person_or_org": {
-          "given_name": "Lorena",
+          "given_name": "Gilberto",
           "type": "personal",
-          "name": "Santos, Lorena",
+          "name": "Queiroz, Gilberto",
           "identifiers": [
             {
               "scheme": "orcid",
-              "identifier": "0000-0003-2612-5859"
+              "identifier": "0000-0001-7534-0219"
             }
           ],
-          "family_name": "Santos"
-        }
-      },
-      {
-        "person_or_org": {
-          "given_name": "Alexandre",
-          "type": "personal",
-          "name": "Carvalho, Alexandre",
-          "identifiers": [
-            {
-              "scheme": "orcid",
-              "identifier": "0000-0001-8762-5465"
-            }
-          ],
-          "family_name": "Carvalho"
+          "family_name": "Queiroz"
         }
       },
       {
