@@ -1,168 +1,194 @@
 {
-    "access": {
-      "embargo": {
-        "active": false,
-        "reason": null
-      },
-      "files": "public",
-      "record": "public",
-      "status": "open"
-    },
-    "files": {
-      "enabled": true,
-      "order": []
-    },
-    "metadata": {
-      "creators": [
-        {
-          "person_or_org": {
-            "family_name": "Simoes",
-            "given_name": "Rolf",
-            "identifiers": [
-              {
-                "identifier": "0000-0003-0953-4132",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Simoes, Rolf",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Camara",
-            "given_name": "Gilberto",
-            "identifiers": [
-              {
-                "identifier": "0000-0002-3681-487X",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Camara, Gilberto",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Queiroz",
-            "given_name": "Gilberto",
-            "identifiers": [
-              {
-                "identifier": "0000-0001-7534-0219",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Queiroz, Gilberto",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Souza",
-            "given_name": "Felipe",
-            "name": "Souza, Felipe",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Andrade",
-            "given_name": "Pedro",
-            "identifiers": [
-              {
-                "identifier": "0000-0001-8675-4046",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Andrade, Pedro",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Santos",
-            "given_name": "Lorena",
-            "identifiers": [
-              {
-                "identifier": "0000-0003-2612-5859",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Santos, Lorena",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Carvalho",
-            "given_name": "Alexandre",
-            "identifiers": [
-              {
-                "identifier": "0000-0001-8762-5465",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Carvalho, Alexandre",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Ferreira",
-            "given_name": "Karine",
-            "identifiers": [
-              {
-                "identifier": "0000-0003-2656-5504",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Ferreira, Karine",
-            "type": "personal"
-          }
-        }
-      ],
-      "languages": [
-        {
-          "id": "eng",
-          "title": {
-            "en": "English"
-          }
-        }
-      ],
-      "publication_date": "2023-02-23",
-      "publisher": "GEO Knowledge Hub",
-      "resource_type": {
-        "id": "dataset-datacube",
+  "files": {
+    "enabled": true,
+    "order": []
+  },
+  "metadata": {
+    "publisher": "sits development team",
+    "publication_date": "2023-02-23",
+    "languages": [
+      {
         "title": {
-          "en": "Data Cube"
+          "en": "English"
+        },
+        "id": "eng"
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "big Earth observation data"
+      },
+      {
+        "subject": "data cubes"
+      },
+      {
+        "subject": "satellite image time series"
+      },
+      {
+        "subject": "machine learning and deep learning for remote sensing"
+      },
+      {
+        "subject": "R package"
+      },
+      {
+        "subject": "deforestation"
+      },
+      {
+        "subject": "lulc"
+      },
+      {
+        "subject": "classification"
+      }
+    ],
+    "title": "Earth Observation Data Cubes",
+    "description": "<p>Earth Observation Data Cube resource.</p><h3>Usage context</h3><p>For the generation of the classification map, in the application \"Detecting deforestation using data cubes and deep learning\", Deep Learning is used, together with time series data extracted from Earth Observation (EO) data cubes.</p><p>To build the EO data cube, Sentinel-2/MSI imagery from a small region in the state of Rond\u00f4nia (Brazil) was used. This image set has data from June 04, 2020, to August 26, 2021. The images available have the following bands: 02, 8A, and 11.</p><p>This imagery dataset is available in the R package <a href=\"https://github.com/e-sensing/sitsdata\">sitsdata</a>, created by the <a href=\"https://github.com/e-sensing/sits\">sits</a> development team for sharing data that can be used to build applications using the sits package. The images are extracted from the SENTINEL-2-L2A collection available in the <a href=\"https://planetarycomputer.microsoft.com/\">Microsoft Planetary Computer</a>.</p><h3>Files</h3><p>In this resource, the tif files of the Sentinel-2/MSI imagery used to create the deforestation map are available in the datacube-sentinel2.zip file. The tile files have the following nomenclature pattern:</p><blockquote><p>&lt;cube&gt;_&lt;tile&gt;_&lt;band&gt;_&lt;date&gt;</p></blockquote><h3>Accessing the data cube</h3><p>You can download the data used to build the data cube in the section below. Alternatively, you can access the data using the following link: <a href=\"https://github.com/e-sensing/sitsdata\">https://github.com/e-sensing/sitsdata</a></p>",
+    "creators": [
+      {
+        "person_or_org": {
+          "given_name": "Rolf",
+          "type": "personal",
+          "name": "Simoes, Rolf",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0003-0953-4132"
+            }
+          ],
+          "family_name": "Simoes"
         }
       },
-      "subjects": [
-        {
-          "subject": "big Earth observation data"
-        },
-        {
-          "subject": "data cubes"
-        },
-        {
-          "subject": "satellite image time series"
-        },
-        {
-          "subject": "machine learning and deep learning for remote sensing"
-        },
-        {
-          "subject": "R package"
-        },
-        {
-          "subject": "deforestation"
-        },
-        {
-          "subject": "lulc"
-        },
-        {
-          "subject": "classification"
+      {
+        "person_or_org": {
+          "given_name": "Gilberto",
+          "type": "personal",
+          "name": "Camara, Gilberto",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0002-3681-487X"
+            }
+          ],
+          "family_name": "Camara"
         }
-      ],
-      "title": "EO Data Cubes"
-    }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Gilberto",
+          "type": "personal",
+          "name": "Queiroz, Gilberto",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0001-7534-0219"
+            }
+          ],
+          "family_name": "Queiroz"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Felipe",
+          "type": "personal",
+          "name": "Souza, Felipe",
+          "family_name": "Souza"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Pedro",
+          "type": "personal",
+          "name": "Andrade, Pedro",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0001-8675-4046"
+            }
+          ],
+          "family_name": "Andrade"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Lorena",
+          "type": "personal",
+          "name": "Santos, Lorena",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0003-2612-5859"
+            }
+          ],
+          "family_name": "Santos"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Alexandre",
+          "type": "personal",
+          "name": "Carvalho, Alexandre",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0001-8762-5465"
+            }
+          ],
+          "family_name": "Carvalho"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Karine",
+          "type": "personal",
+          "name": "Ferreira, Karine",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0003-2656-5504"
+            }
+          ],
+          "family_name": "Ferreira"
+        }
+      }
+    ],
+    "resource_type": {
+      "title": {
+        "en": "Data Cube"
+      },
+      "id": "dataset-datacube"
+    },
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/e-sensing/sitsdata",
+        "resource_type": {
+          "title": {
+            "en": "Software"
+          },
+          "id": "software"
+        },
+        "relation_type": {
+          "title": {
+            "en": "Is supplemented by"
+          },
+          "id": "issupplementedby"
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://e-sensing.github.io/sitsbook/image-classification-in-data-cubes.html#building-a-data-cube",
+        "resource_type": {
+          "title": {
+            "en": "Software documentation"
+          },
+          "id": "publication-softwaredocumentation"
+        },
+        "relation_type": {
+          "title": {
+            "en": "Is supplemented by"
+          },
+          "id": "issupplementedby"
+        },
+        "scheme": "url"
+      }
+    ]
   }
+}
