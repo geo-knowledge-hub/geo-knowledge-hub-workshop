@@ -1,169 +1,169 @@
 {
-    "access": {
-      "embargo": {
-        "active": false,
-        "reason": null
-      },
-      "files": "public",
-      "record": "public",
-      "status": "open"
-    },
-    "files": {
-      "enabled": true,
-      "order": []
-    },
-    "metadata": {
-      "creators": [
-        {
-          "person_or_org": {
-            "family_name": "Simoes",
-            "given_name": "Rolf",
-            "identifiers": [
-              {
-                "identifier": "0000-0003-0953-4132",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Simoes, Rolf",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Camara",
-            "given_name": "Gilberto",
-            "identifiers": [
-              {
-                "identifier": "0000-0002-3681-487X",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Camara, Gilberto",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Queiroz",
-            "given_name": "Gilberto",
-            "identifiers": [
-              {
-                "identifier": "0000-0001-7534-0219",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Queiroz, Gilberto",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Souza",
-            "given_name": "Felipe",
-            "name": "Souza, Felipe",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Andrade",
-            "given_name": "Pedro",
-            "identifiers": [
-              {
-                "identifier": "0000-0001-8675-4046",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Andrade, Pedro",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Santos",
-            "given_name": "Lorena",
-            "identifiers": [
-              {
-                "identifier": "0000-0003-2612-5859",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Santos, Lorena",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Carvalho",
-            "given_name": "Alexandre",
-            "identifiers": [
-              {
-                "identifier": "0000-0001-8762-5465",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Carvalho, Alexandre",
-            "type": "personal"
-          }
-        },
-        {
-          "person_or_org": {
-            "family_name": "Ferreira",
-            "given_name": "Karine",
-            "identifiers": [
-              {
-                "identifier": "0000-0003-2656-5504",
-                "scheme": "orcid"
-              }
-            ],
-            "name": "Ferreira, Karine",
-            "type": "personal"
-          }
-        }
-      ],
-      "languages": [
-        {
-          "id": "eng",
-          "title": {
-            "en": "English"
-          }
-        }
-      ],
-      "publication_date": "2023-02-21",
-      "publisher": "GEO Knowledge Hub",
-      "resource_type": {
-        "id": "software",
+  "files": {
+    "enabled": true,
+    "order": []
+  },
+  "metadata": {
+    "publisher": "sits development team",
+    "publication_date": "2023-02-21",
+    "languages": [
+      {
         "title": {
-          "en": "Software"
+          "en": "English"
+        },
+        "id": "eng"
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "big Earth observation data"
+      },
+      {
+        "subject": "data cubes"
+      },
+      {
+        "subject": "satellite image time series"
+      },
+      {
+        "subject": "machine learning and deep learning for remote sensing"
+      },
+      {
+        "subject": "R package"
+      },
+      {
+        "subject": "deforestation"
+      },
+      {
+        "subject": "lulc"
+      },
+      {
+        "subject": "classification"
+      }
+    ],
+    "title": "Processing scripts",
+    "description": "<p>Processing Scripts resource.</p><h3>Usage context</h3><p>In the \"Detecting deforestation using data cubes and deep learning\" application, this software scripts resource is used to process data and generate the results.</p><h3>Organization description</h3><p>The scripts were developed in the R programming language with the help of several community software packages. Using these packages facilitated the development of the scripts and, consequently, the production of the results.</p><p>The recommendations presented by Marwick et al. (2017) were used to organize the scripts. So, an R package was created that contains the description of the used software dependencies, along with the centralization of all materials necessary for the execution of the scripts. In general, the organization followed has the following structure:</p><p><strong>Analysis</strong>: directory in which the scripts developed during the application creation are centralized. The nomenclature followed for the script files explicitly indicates the order in which they should be executed;</p><p><strong>Data</strong>: Directory where the data generated by the application is saved. There is no input data in this directory since the sitsdata software package provides the data used.</p><p>Besides these, there is also the <strong>renv</strong> directory, which is created by a tool of the same name. The <a href=\"https://rstudio.github.io/renv/\">renv</a> tool helps manage the community package versions used in the scripts. It saves the exact versions of the packages required in the execution.</p><p>In addition to these directories, some files have been defined along with the scripts:</p><ul><li><strong>DESCRIPTION</strong>: R package definition file;</li><li><strong>Dockerfile</strong>: File with the definition of the environment used in the execution of the scripts. This file was created based on Docker technologies;</li><li><strong>Makefile</strong>: File that contains operations that facilitate the preparation of the environment and execution of scripts in an automated way. This file must be used with the Make tool;</li><li><strong>renv.lock</strong>: File used by the renv tool, with the renv directory, to control the versions of the software used by the processing scripts;</li><li><strong>deforestation-detection.Rproj</strong>: RStudio project description file. Using this file, the base directory where the scripts are defined can be opened as a project in RStudio;</li></ul>",
+    "creators": [
+      {
+        "person_or_org": {
+          "given_name": "Rolf",
+          "type": "personal",
+          "name": "Simoes, Rolf",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0003-0953-4132"
+            }
+          ],
+          "family_name": "Simoes"
         }
       },
-      "subjects": [
-        {
-          "subject": "big Earth observation data"
-        },
-        {
-          "subject": "data cubes"
-        },
-        {
-          "subject": "satellite image time series"
-        },
-        {
-          "subject": "machine learning and deep learning for remote sensing"
-        },
-        {
-          "subject": "R package"
-        },
-        {
-          "subject": "deforestation"
-        },
-        {
-          "subject": "lulc"
-        },
-        {
-          "subject": "classification"
+      {
+        "person_or_org": {
+          "given_name": "Gilberto",
+          "type": "personal",
+          "name": "Camara, Gilberto",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0002-3681-487X"
+            }
+          ],
+          "family_name": "Camara"
         }
-      ],
-      "title": "Processing scripts",
-      "description": "<p>This resource contains the scripts used to generate the results of the application <i>\"Detecting deforestation using data cubes and deep learning\"</i>.</p><h3>Organization description</h3><p>The scripts were developed in the R programming language with the help of several community software packages. Using these packages facilitated the development of the scripts and, consequently, the production of the results.</p><p>The recommendations presented by Marwick et al. (2017) were used to organize the scripts. So, an R package was created that contains the description of the used software dependencies, along with the centralization of all materials necessary for the execution of the scripts. In general, the organization followed has the following structure:</p><p><strong>Analysis</strong>: directory in which the scripts developed during the application creation are centralized. The nomenclature followed for the script files explicitly indicates the order in which they should be executed;</p><p><strong>Data</strong>: Directory where the data generated by the application is saved. There is no input data in this directory since the sitsdata software package provides the data used.</p><p>Besides these, there is also the <strong>renv</strong> directory, which is created by a tool of the same name. The <a href=\"https://rstudio.github.io/renv/\">renv</a> tool helps manage the community package versions used in the scripts. It saves the exact versions of the packages required in the execution.</p><p>In addition to these directories, some files have been defined along with the scripts:</p><ul><li><strong>DESCRIPTION</strong>: R package definition file;</li><li><strong>Dockerfile</strong>: File with the definition of the environment used in the execution of the scripts. This file was created based on Docker technologies;</li><li><strong>Makefile</strong>: File that contains operations that facilitate the preparation of the environment and execution of scripts in an automated way. This file must be used with the Make tool;</li><li><strong>renv.lock</strong>: File used by the renv tool, with the renv directory, to control the versions of the software used by the processing scripts;</li><li><strong>deforestation-detection.Rproj</strong>: RStudio project description file. Using this file, the base directory where the scripts are defined can be opened as a project in RStudio;</li></ul>"
+      },
+      {
+        "person_or_org": {
+          "given_name": "Gilberto",
+          "type": "personal",
+          "name": "Queiroz, Gilberto",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0001-7534-0219"
+            }
+          ],
+          "family_name": "Queiroz"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Felipe",
+          "type": "personal",
+          "name": "Souza, Felipe",
+          "family_name": "Souza"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Pedro",
+          "type": "personal",
+          "name": "Andrade, Pedro",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0001-8675-4046"
+            }
+          ],
+          "family_name": "Andrade"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Lorena",
+          "type": "personal",
+          "name": "Santos, Lorena",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0003-2612-5859"
+            }
+          ],
+          "family_name": "Santos"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Alexandre",
+          "type": "personal",
+          "name": "Carvalho, Alexandre",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0001-8762-5465"
+            }
+          ],
+          "family_name": "Carvalho"
+        }
+      },
+      {
+        "person_or_org": {
+          "given_name": "Karine",
+          "type": "personal",
+          "name": "Ferreira, Karine",
+          "identifiers": [
+            {
+              "scheme": "orcid",
+              "identifier": "0000-0003-2656-5504"
+            }
+          ],
+          "family_name": "Ferreira"
+        }
+      }
+    ],
+    "resource_type": {
+      "title": {
+        "en": "Software"
+      },
+      "id": "software"
     }
+  },
+  "access": {
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "record": "public",
+    "status": "open"
+  }
 }

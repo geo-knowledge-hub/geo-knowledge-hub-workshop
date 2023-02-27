@@ -12,7 +12,8 @@
         {
             "metadata_file":"metadata/resources/samples/metadata.json",
             "files":[
-               "files/data/samples/samples_prodes_4classes.csv"
+               "files/data/samples/samples_prodes_4classes.csv",
+               "files/data/samples/samples_prodes_4classes.rds"
             ],
             "options": {
                "include_doi": true
