@@ -1,0 +1,215 @@
+---
+title: "Hands-on session"
+subtitle: "What the GEO Knowledge Hub can do for you ?"
+format:
+  revealjs: 
+    theme: [default, assets/theme/custom.scss]
+    chalkboard:
+      buttons: false
+    slide-number: true
+    preview-links: auto
+    css: assets/css/styles.css
+    logo: assets/images/logo/logo-gkhub.svg
+    footer: <https://gkhub.earthobservations.org>
+    width: 1200
+from: markdown+emoji
+---
+
+<!-- 
+
+  Introduction
+
+ -->
+## Hands-on {transition="fade"}
+
+This part of the workshop will show you how the GEO Knowledge Hub can be used. Here, we will focusing on:
+
+<div class="centered">
+
+::: {.fragment .fade-in}
+  <h3>User perspective</h3>
+:::
+
+</div>
+
+<div class="centered boxes">
+
+::: {.fragment .fade-left}
+  <div class="mt-30 box centered">
+  <div class="item"><h4>Search :mag_right:</h4></div>
+  </div>
+:::
+
+::: {.fragment .fade-left}
+  <div class="mt-30 box centered">
+  <h4>Access :raised_hands:</h4>
+  </div>
+:::
+
+::: {.fragment .fade-left}
+  <div class="mt-30 box centered">
+  <h4>Interact :speech_balloon:</h4>
+  </div>
+:::
+
+</div>
+
+## Hands-on {transition="fade"}
+
+This part of the workshop will show you how the GEO Knowledge Hub can be used. Here, we will focusing on:
+
+<div class="centered">
+
+::: {.fragment .fade-in}
+  <h3>Knowledge Provider perspective</h3>
+:::
+
+</div>
+
+<div class="centered boxes">
+
+::: {.fragment .fade-left}
+  <div class="mt-30 box centered">
+  <div class="item"><h4>Create :hammer:</h4></div>
+  </div>
+:::
+
+::: {.fragment .fade-left}
+  <div class="mt-30 box centered">
+  <h4>Manage :woman_technologist:</h4>
+  </div>
+:::
+
+::: {.fragment .fade-left}
+  <div class="mt-30 box centered">
+  <h4>Interact :speech_balloon:</h4>
+  </div>
+:::
+
+</div>
+
+<!-- 
+
+  User perspectives: Search
+
+ -->
+# User perspective {transition="fade" .cover-section}
+
+::: {.fragment .fade-up}
+(Search)
+:::
+
+## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+
+<!-- 
+
+  User perspectives: Access
+
+ -->
+# User perspective {transition="fade" .cover-section}
+
+(Access)
+
+## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+
+<!-- 
+
+  User perspectives: Interact
+
+ -->
+# User perspective {transition="fade" .cover-section}
+
+(Interact)
+
+## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+
+<!-- 
+
+  Knowledge Provider perspective: Create
+
+ -->
+# Knowledge Provider perspective {transition="fade" .cover-section}
+
+::: {.fragment .fade-up}
+(Create)
+:::
+
+<!-- 1. Create: First, we show the deposit page  -->
+## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+
+
+<!-- 2. Create: Then, we show some concepts around the deposit interface (metadata, vocabularies, package context and so on) -->
+
+<!-- 2.1. Metadata concepts -->
+## Deposit interface {transition="fade"}
+
+<p class="justified">
+Using the deposit interface, providers can create Packages and Resources. To use this interface, you should consider the following concepts:
+</p>
+
+<div class="ml-20 mt-50">
+
+::: {.fragment .fade-in}
+  <h3>Metadata</h3>
+:::
+
+<div class="mt-30">
+::: incremental
+
+- Based on the InvenioRDM metadata
+
+  - Aligned on DataCite Metadata Schema v4.x
+:::
+
+</div>
+
+</div>
+
+<!-- 2.2. Vocabularies -->
+## Deposit interface {transition="fade"}
+
+<p class="justified">
+Using the deposit interface, providers can create Packages and Resources. To use this interface, you should consider the following concepts:
+</p>
+
+<div class="ml-20 mt-50">
+<h3>Controlled vocabularies</h3>
+
+<div class="mt-30">
+
+::: incremental
+- SDGs
+
+- Licenses
+
+- Subjects
+:::
+
+</div>
+
+</div>
+
+<!-- 2. Create: Then, we return to the deposit interface) -->
+## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+
+<!-- 
+
+  Knowledge Provider perspective: Manage
+
+ -->
+# Knowledge Provider perspective {transition="fade" .cover-section}
+
+(Manage)
+
+## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+
+<!-- 
+
+  Knowledge Provider perspective: Interact
+
+ -->
+# Knowledge Provider perspective {transition="fade" .cover-section}
+
+(Interact)
+
+## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }

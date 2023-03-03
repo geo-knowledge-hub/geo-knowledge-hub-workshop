@@ -1,0 +1,78 @@
+
+
+/* General definitions */
+.border {
+  border: 1px solid #dee2e6;
+}
+
+.border-thick {
+  border-width: 3px;
+}
+
+/* Logo */
+.reveal .slide-logo {
+  max-height: 4rem !important;
+}
+
+/* Cover sections customization */
+.cover-section {
+  text-align: center;
+}
+
+/* Elements control */
+.centered {
+  text-align: center;
+}
+
+.justified {
+  text-align: justify;
+}
+
+/* Box */
+.box {
+  height: 200px;
+  width: 250px;
+  color: #fff;
+  padding: 10px;
+  border: solid 3px #e1e1e1;
+  border-style: dashed;
+}
+
+.box.centered{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.boxes {
+  display: flex;
+  flex-direction: row;
+  gap: 10rem;
+}
+
+.centered.boxes {
+  align-items: center;
+  justify-content: center;
+}
+
+/* Margins */
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+.ms-40 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.ml-40 {
+  margin-left: 40px;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}
