@@ -31,10 +31,8 @@
         {
             "metadata_file":"metadata/resources/classification-map/metadata.json",
             "files":[
-               "files/data/results/classification-map/SENTINEL-2_MSI_20LKP_2020-06-04_2021-08-26_class_no_smooth.tif",
-               "files/data/results/classification-map/SENTINEL-2_MSI_20LKP_2020-06-04_2021-08-26_probs_ltae.tif",
-               "files/data/results/classification-map-smooth/SENTINEL-2_MSI_20LKP_2020-06-04_2021-08-26_bayes_bayes_w9_s20.tif",
-               "files/data/results/classification-map-smooth/SENTINEL-2_MSI_20LKP_2020-06-04_2021-08-26_class_bayes_w9_s20.tif"
+               "files/data/results/classification-map/classification-map.zip",
+               "files/data/results/classification-map-smooth/classification-map-smooth.zip"
             ],
             "options": {
                "include_doi": true

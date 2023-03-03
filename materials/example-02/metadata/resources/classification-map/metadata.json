@@ -157,23 +157,25 @@
       "id": "dataset-lulcmap"
     },
     "related_identifiers": [
-      {
-        "identifier": "https://e-sensing.github.io/sitsbook/image-classification-in-data-cubes.html#bayesian-smoothing",
-        "resource_type": {
-          "title": {
-            "en": "Software documentation"
-          },
-          "id": "publication-softwaredocumentation"
-        },
-        "relation_type": {
-          "title": {
-            "en": "Is supplemented by"
-          },
-          "id": "issupplementedby"
-        },
-        "scheme": "url"
-      }
-    ]
+			{
+				"identifier": "https://e-sensing.github.io/sitsbook/image-classification-in-data-cubes.html#bayesian-smoothing",
+				"relation_type": {
+					"id": "issupplementedby",
+					"title": {
+						"en": "Is supplemented by"
+					}
+				},
+				"resource_type": {
+					"id": "publication-softwaredocumentation",
+					"title": {
+						"en": "Software documentation"
+					}
+				},
+				"scheme": "url",
+				"title": "sits package documentation",
+				"description": "Documentation page explaining how to use classification smoothers with the sits package."
+			}
+		]
   },
   "parent": {
     "communities": {},

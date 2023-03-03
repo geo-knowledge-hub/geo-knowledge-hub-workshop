@@ -13,6 +13,17 @@ package-prepare:  ## Prepare the resources to be shared in the GEO Knowledge Hub
 	rm -rf files/data/datacube/datacube-sentinel2.zip
 	zip -r -q files/data/datacube/datacube-sentinel2.zip files/data/datacube/*.tif
 
+	@echo "Preparing classification map results"
+	rm -rf files/data/results/classification-map/classification-map.zip
+	rm -rf files/data/results/classification-map-smooth/classification-map-smooth.zip
+
+	zip -r -q \
+		files/data/results/classification-map/classification-map.zip \
+		files/data/results/classification-map/*.tif
+	zip -r -q \
+		files/data/results/classification-map-smooth/classification-map-smooth.zip \
+		files/data/results/classification-map-smooth/*.tif
+
 	@echo "Preparing environment image"
 	cd files/scripts/r-scripts && make docker-export
 	mv files/scripts/r-scripts/sits-environment.tar files/environment/sits-environment.tar

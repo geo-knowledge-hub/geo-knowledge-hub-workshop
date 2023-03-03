@@ -157,38 +157,42 @@
       "id": "dataset-datacube"
     },
     "related_identifiers": [
-      {
-        "identifier": "https://github.com/e-sensing/sitsdata",
-        "resource_type": {
-          "title": {
-            "en": "Software"
-          },
-          "id": "software"
-        },
-        "relation_type": {
-          "title": {
-            "en": "Is supplemented by"
-          },
-          "id": "issupplementedby"
-        },
-        "scheme": "url"
-      },
-      {
-        "identifier": "https://e-sensing.github.io/sitsbook/image-classification-in-data-cubes.html#building-a-data-cube",
-        "resource_type": {
-          "title": {
-            "en": "Software documentation"
-          },
-          "id": "publication-softwaredocumentation"
-        },
-        "relation_type": {
-          "title": {
-            "en": "Is supplemented by"
-          },
-          "id": "issupplementedby"
-        },
-        "scheme": "url"
-      }
-    ]
+			{
+				"identifier": "https://github.com/e-sensing/sitsdata",
+				"relation_type": {
+					"id": "issupplementedby",
+					"title": {
+						"en": "Is supplemented by"
+					}
+				},
+				"resource_type": {
+					"id": "software",
+					"title": {
+						"en": "Software"
+					}
+				},
+				"scheme": "url",
+				"title": "sitsdata code repository",
+				"description": "sitsdata repository where the original data used in this resource are available."
+			},
+			{
+				"identifier": "https://e-sensing.github.io/sitsbook/image-classification-in-data-cubes.html#building-a-data-cube",
+				"relation_type": {
+					"id": "issupplementedby",
+					"title": {
+						"en": "Is supplemented by"
+					}
+				},
+				"resource_type": {
+					"id": "publication-softwaredocumentation",
+					"title": {
+						"en": "Software documentation"
+					}
+				},
+				"scheme": "url",
+				"title": "sits documentation",
+				"description": "Documentation page explaining how to build a data cube using local and remote data (including examples with the sitsdata package)"
+			}
+		]
   }
 }

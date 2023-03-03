@@ -161,22 +161,24 @@
       "id": "lesson"
     },
     "related_identifiers": [
-      {
-        "identifier": "https://e-sensing.github.io/sitsbook/index.html",
-        "resource_type": {
-          "title": {
-            "en": "Software documentation"
-          },
-          "id": "publication-softwaredocumentation"
-        },
-        "relation_type": {
-          "title": {
-            "en": "Is supplemented by"
-          },
-          "id": "issupplementedby"
-        },
-        "scheme": "url"
-      }
-    ]
+			{
+				"identifier": "https://e-sensing.github.io/sitsbook/index.html",
+				"relation_type": {
+					"id": "issupplementedby",
+					"title": {
+						"en": "Is supplemented by"
+					}
+				},
+				"resource_type": {
+					"id": "publication-softwaredocumentation",
+					"title": {
+						"en": "Software documentation"
+					}
+				},
+				"scheme": "url",
+				"title": "Documentation page",
+				"description": "The documentation is a web page. You can access it to view the full content available on it."
+			}
+		]
   }
 }

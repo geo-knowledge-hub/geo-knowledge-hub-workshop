@@ -173,23 +173,25 @@
       "id": "publication-article"
     },
     "related_identifiers": [
-      {
-        "identifier": "10.3390/rs13132428",
-        "resource_type": {
-          "title": {
-            "en": "Journal article"
-          },
-          "id": "publication-article"
-        },
-        "relation_type": {
-          "title": {
-            "en": "Is referenced by"
-          },
-          "id": "isreferencedby"
-        },
-        "scheme": "doi"
-      }
-    ]
+			{
+				"identifier": "10.3390/rs13132428",
+				"relation_type": {
+					"id": "isreferencedby",
+					"title": {
+						"en": "Is referenced by"
+					}
+				},
+				"resource_type": {
+					"id": "publication-article",
+					"title": {
+						"en": "Journal article"
+					}
+				},
+				"scheme": "doi",
+				"title": "Article page",
+				"description": "Original publisher page with the article document"
+			}
+		]
   },
   "access": {
     "files": "public",

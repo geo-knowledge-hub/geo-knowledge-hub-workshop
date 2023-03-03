@@ -13,6 +13,17 @@ package-prepare:  ## Prepare the resources to be shared in the GEO Knowledge Hub
 	rm -rf files/data/datacube/datacube-sentinel2.zip
 	zip -r -q files/data/datacube/datacube-sentinel2.zip files/data/datacube/*.tif
 
+	@echo "Preparing classification map results"
+	rm -rf files/data/results/classification-map/classification-map.zip
+	rm -rf files/data/results/classification-map-smooth/classification-map-smooth.zip
+
+	zip -r -q \
+		files/data/results/classification-map/classification-map.zip \
+		files/data/results/classification-map/*.tif
+	zip -r -q \
+		files/data/results/classification-map-smooth/classification-map-smooth.zip \
+		files/data/results/classification-map-smooth/*.tif
+
 package-load:  ## Load package to the GEO Knowledge Hub. To use this target, you must define the following arguments: GKHUB_API_ADDRESS and GKHUB_API_TOKEN.
 	geo-package-loader load \
 		--verbose \

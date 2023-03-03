@@ -157,54 +157,60 @@
       "id": "software"
     },
     "related_identifiers": [
-      {
-        "identifier": "arXiv:2007.00586",
-        "resource_type": {
-          "title": {
-            "en": "Preprint"
-          },
-          "id": "publication-preprint"
-        },
-        "relation_type": {
-          "title": {
-            "en": "Is supplemented by"
-          },
-          "id": "issupplementedby"
-        },
-        "scheme": "arxiv"
-      },
-      {
-        "identifier": "10.1109/CVPR42600.2020.01234",
-        "resource_type": {
-          "title": {
-            "en": "Journal article"
-          },
-          "id": "publication-article"
-        },
-        "relation_type": {
-          "title": {
-            "en": "Is supplemented by"
-          },
-          "id": "issupplementedby"
-        },
-        "scheme": "doi"
-      },
-      {
-        "identifier": "10.5281/zenodo.4835356",
-        "resource_type": {
-          "title": {
-            "en": "Journal article"
-          },
-          "id": "publication-article"
-        },
-        "relation_type": {
-          "title": {
-            "en": "Is supplemented by"
-          },
-          "id": "issupplementedby"
-        },
-        "scheme": "doi"
-      }
-    ]
+			{
+				"identifier": "arXiv:2007.00586",
+				"relation_type": {
+					"id": "issupplementedby",
+					"title": {
+						"en": "Is supplemented by"
+					}
+				},
+				"resource_type": {
+					"id": "publication-preprint",
+					"title": {
+						"en": "Preprint"
+					}
+				},
+				"scheme": "arxiv",
+				"title": "Light Temporal Attention Encoder description article",
+				"description": "Article describing the LTAE approach."
+			},
+			{
+				"identifier": "10.1109/CVPR42600.2020.01234",
+				"relation_type": {
+					"id": "issupplementedby",
+					"title": {
+						"en": "Is supplemented by"
+					}
+				},
+				"resource_type": {
+					"id": "publication-article",
+					"title": {
+						"en": "Journal article"
+					}
+				},
+				"scheme": "doi",
+				"title": "Light Temporal Attention Encoder description article",
+				"description": "Article describing the LTAE approach."
+			},
+			{
+				"identifier": "10.5281/zenodo.4835356",
+				"relation_type": {
+					"id": "issupplementedby",
+					"title": {
+						"en": "Is supplemented by"
+					}
+				},
+				"resource_type": {
+					"id": "publication-article",
+					"title": {
+						"en": "Journal article"
+					}
+				},
+				"scheme": "doi",
+				"title": "Light Temporal Attention Encoder description article",
+				"description": "Article describing the LTAE approach."
+			}
+		]
   }
 }
