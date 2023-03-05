@@ -94,21 +94,21 @@ This part of the workshop will show you the features available in the GEO Knowle
 (Search)
 :::
 
-## { transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## { transition="fade" background-iframe="/base.html" background-interactive=true }
 
 <!-- User perspectives: Access -->
 # User perspective { transition="fade" .cover-section }
 
 (Access)
 
-## { transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## { transition="fade" background-iframe="/base.html" background-interactive=true }
 
 <!-- User perspectives: Interact -->
 # User perspective {transition="fade" .cover-section}
 
 (Interact)
 
-## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## {transition="fade" background-iframe="/base.html" background-interactive=true }
 
 # Questions ? {transition="fade" .cover-section}
 
@@ -125,7 +125,7 @@ This part of the workshop will show you the features available in the GEO Knowle
 :::
 
 <!-- 1. Create: First, we show the deposit page  -->
-## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## {transition="fade" background-iframe="/base.html" background-interactive=true }
 
 <!-- 2. Create: Then, we show some concepts around the deposit interface (metadata, vocabularies, package context and so on) -->
 
@@ -373,7 +373,7 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 :::
 :::
 
-## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## {transition="fade" background-iframe="/base.html" background-interactive=true }
 
 <!-- Associating resources (A) -->
 ## Creating a Knowledge Package {transition="fade"}
@@ -463,7 +463,7 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 :::
 
 <!-- Associating resources (H) - Practical -->
-## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## {transition="fade" background-iframe="/base.html" background-interactive=true }
 
 <!-- Associating resources (I) -->
 ## Creating a Knowledge Package {transition="fade"}
@@ -475,7 +475,7 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 :::
 
 <!-- Associating resources (J) - Practical -->
-## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## {transition="fade" background-iframe="/base.html" background-interactive=true }
 
 <!-- Associating resources (K) -->
 ## Creating a new version {transition="fade"}
@@ -572,7 +572,7 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 :::
 
 <!-- Versioning (J) - Practical -->
-## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## {transition="fade" background-iframe="/base.html" background-interactive=true }
 
 # Questions ? {transition="fade" .cover-section}
 
@@ -589,7 +589,7 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 :::
 
 <!-- Managing (A) - Practical -->
-## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## {transition="fade" background-iframe="/base.html" background-interactive=true }
 
 <!-- Managing (B) -->
 ## Managing packages and resources {transition="fade"}
@@ -620,7 +620,7 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 
 <!-- Managing (E) - Practical -->
 <!-- Knowledge Package context + Community -->
-## {transition="fade" background-iframe="https://127.0.0.1/" background-interactive=true }
+## {transition="fade" background-iframe="/base.html" background-interactive=true }
 
 # Questions ? {transition="fade" .cover-section}
 
@@ -745,10 +745,17 @@ One example of a client tool we create and use is the [GEO Package Loader](https
 
 # Final Thoughts {transition="fade" .cover-section}
 
-## Start today with the GEO Knowledge Hub! {.centered}
+## Start colaborating today!
 
-- Become a Knowledge Provider
-- Request a Community
+If you want to start collaborating with the GEO Knowledge Hub, the links below can be useful:
+
+::: {.fragment .fade-left .mt-70}
+-   (Google Form) [Request a Knowledge Provider account](https://docs.google.com/forms/d/e/1FAIpQLScjbBRdTocxvbV7zgESMMaHGfAOwp-VqfQ9ujm-PF47deLnkw/viewform){preview-link="true"}
+:::
+
+::: {.fragment .fade-left .mt-30}
+-   (Google Form) [Suggest a new community](https://docs.google.com/forms/d/e/1FAIpQLScqnix8Jqc-Yhky442LghnfENQu5OnBJUymI03KkbQd_hnZqQ/viewform){preview-link="true"}
+:::
 
 # Invite for you {transition="fade" .cover-section}
 
