@@ -23,69 +23,73 @@ This part of the workshop will show you the features available in the GEO Knowle
 
 :::
 
-<div class="centered">
-
-::: {.fragment .fade-in}
-  <h3>User perspective</h3>
+::: {.mt-50}
+::: {.fragment .fade-in .centered}
+<h3>User perspective</h3>
 :::
 
-</div>
+::: {.centered .boxes}
+::: {.fragment .fade-left .mt-30 .box .centered}
+::: {.item}
 
-<div class="centered boxes">
+<h4>Search :mag_right:</h4>
 
-::: {.fragment .fade-left}
-  <div class="mt-30 box centered">
-  <div class="item"><h4>Search :mag_right:</h4></div>
-  </div>
+:::
 :::
 
-::: {.fragment .fade-left}
-  <div class="mt-30 box centered">
-  <h4>Access :raised_hands:</h4>
-  </div>
+::: {.fragment .fade-left .mt-30 .box .centered}
+::: {.item}
+
+<h4>Access :raised_hands:</h4>
+
+:::
 :::
 
-::: {.fragment .fade-left}
-  <div class="mt-30 box centered">
-  <h4>Interact :speech_balloon:</h4>
-  </div>
-:::
+::: {.fragment .fade-left .mt-30 .box .centered}
+::: {.item}
 
-</div>
+<h4>Interact :speech_balloon:</h4>
+
+:::
+:::
+:::
+:::
 
 ## Tour {transition="fade"}
 
 This part of the workshop will show you the features available in the GEO Knowledge Hub. Here, we will focusing on:
 
-<div class="centered">
-
-::: {.fragment .fade-in}
-  <h3>Knowledge Provider perspective</h3>
+::: {.mt-50}
+::: {.fragment .fade-in .centered}
+<h3>Knowledge Provider perspective</h3>
 :::
 
-</div>
+::: {.centered .boxes}
+::: {.fragment .fade-left .mt-30 .box .centered}
+::: {.item}
 
-<div class="centered boxes">
+<h4>Create :hammer:</h4>
 
-::: {.fragment .fade-left}
-  <div class="mt-30 box centered">
-  <div class="item"><h4>Create :hammer:</h4></div>
-  </div>
+:::
 :::
 
-::: {.fragment .fade-left}
-  <div class="mt-30 box centered">
-  <h4>Manage :woman_technologist:</h4>
-  </div>
+::: {.fragment .fade-left .mt-30 .box .centered}
+::: {.item}
+
+<h4>Manage :woman_technologist:</h4>
+
+:::
 :::
 
-::: {.fragment .fade-left}
-  <div class="mt-30 box centered">
-  <h4>Interact :speech_balloon:</h4>
-  </div>
-:::
+::: {.fragment .fade-left .mt-30 .box .centered}
+::: {.item}
 
-</div>
+<h4>Interact :speech_balloon:</h4>
+
+:::
+:::
+:::
+:::
 
 <!-- User perspectives: Search -->
 # User perspective {transition="fade" .cover-section}
@@ -132,83 +136,83 @@ This part of the workshop will show you the features available in the GEO Knowle
 <!-- 2.1. Metadata concepts -->
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-001.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-002.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-003.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-004.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-005.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-006.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-007.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-008.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-009.svg)
 
-</div>
+:::
 
 ## Deposit interface {transition="fade"}
 
-<div class="centered mtn-60">
+::: {.centered .mtn-60}
 
 ![](assets/images/deposit/1_records/record-010.svg)
 
-</div>
+:::
 
 # Creating a Knowledge Package {transition="fade" .cover-section}
 
@@ -741,20 +745,36 @@ One example of a client tool we create and use is the [GEO Package Loader](https
 
 :thinking:
 
-# Next steps {transition="fade" .cover-section}
+## Next steps {transition="fade"}
 
-# Final Thoughts {transition="fade" .cover-section}
-
-## Start colaborating today!
-
-If you want to start collaborating with the GEO Knowledge Hub, the links below can be useful:
-
-::: {.fragment .fade-left .mt-70}
--   (Google Form) [Request a Knowledge Provider account](https://docs.google.com/forms/d/e/1FAIpQLScjbBRdTocxvbV7zgESMMaHGfAOwp-VqfQ9ujm-PF47deLnkw/viewform){preview-link="true"}
+::: {.fragment .fade-left .mt-30}
+- (`Soon`) Members for Knowledge Packages
 :::
 
 ::: {.fragment .fade-left .mt-30}
--   (Google Form) [Suggest a new community](https://docs.google.com/forms/d/e/1FAIpQLScqnix8Jqc-Yhky442LghnfENQu5OnBJUymI03KkbQd_hnZqQ/viewform){preview-link="true"}
+- (`Soon`) Integrated CMS system to share on social media notifications about new Knowledge Packages
+:::
+
+::: {.fragment .fade-left .mt-30}
+- (`Planned`) DOI Minting
+:::
+
+::: {.fragment .fade-left .mt-30}
+- (`Future`) R client to integrate the analytical environment with the GEO Knowledge Hub
+:::
+
+## Start colaborating today!
+
+::: {.fragment .fade-left}
+If you want to start collaborating with the GEO Knowledge Hub, the links below can be useful:
+:::
+
+::: {.fragment .fade-left .mt-70}
+-   (`Google Form`) [Request a Knowledge Provider account](https://docs.google.com/forms/d/e/1FAIpQLScjbBRdTocxvbV7zgESMMaHGfAOwp-VqfQ9ujm-PF47deLnkw/viewform){preview-link="true"}
+:::
+
+::: {.fragment .fade-left .mt-30}
+-   (`Google Form`) [Suggest a new community](https://docs.google.com/forms/d/e/1FAIpQLScqnix8Jqc-Yhky442LghnfENQu5OnBJUymI03KkbQd_hnZqQ/viewform){preview-link="true"}
 :::
 
 # Invite for you {transition="fade" .cover-section}
