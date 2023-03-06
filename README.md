@@ -11,7 +11,7 @@ This repository stores the auxiliary materials (e.g., Presentation, Knowledge Pa
 
 ### Workshop details
 
-`Date & time`: 9March at 14:00 (Geneva time)
+`Date & time`: 9 March 2023 at 14:00 (Geneva time)
 
 `Duration`: 2 hours
 
