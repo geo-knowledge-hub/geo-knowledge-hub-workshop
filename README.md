@@ -9,6 +9,13 @@ To learn more about the new features available in the GEO Knowledge Hub and how 
 
 This repository stores the auxiliary materials (e.g., Presentation, Knowledge Packages resources) for the workshop.
 
+### Workshop presentation
+
+To access the presentations of the workflow, please, use the following links:
+
+- [1. Introduction to the Open Knowledge and the GEO Knowledge Hub concepts](#)
+- [2. Tour session in the GEO Knowledge Hub](#)
+
 ### Workshop details
 
 `Date & time`: 9 March 2023 at 14:00 (Geneva time)
