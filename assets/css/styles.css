@@ -159,6 +159,10 @@
   margin-top: 70px;
 }
 
+.mt-80 {
+  margin-top: 80px;
+}
+
 .mt-120 {
   margin-top: 120px;
 }
@@ -232,6 +236,10 @@
 
 .fs-45 {
   font-size: 45px;
+}
+
+.fs-50 {
+  font-size: 50px;
 }
 
 /* Width */
