@@ -98,7 +98,7 @@ This part of the workshop will show you the features available in the GEO Knowle
 (Search)
 :::
 
-## { transition="fade" background-iframe="https://gkhub.earthobservations.org/" background-interactive=true }
+## { transition="fade" background-iframe="base.html" background-interactive=true }
 
 <!-- User perspectives: Access -->
 # User perspective { transition="fade" .cover-section }
@@ -133,14 +133,14 @@ This part of the workshop will show you the features available in the GEO Knowle
 
 :::
 
-## { transition="fade" background-iframe="https://gkhub.earthobservations.org/" background-interactive=true }
+## { transition="fade" background-iframe="base.html" background-interactive=true }
 
 <!-- User perspectives: Interact -->
 # User perspective {transition="fade" .cover-section}
 
 (Interact)
 
-## {transition="fade" background-iframe="https://gkhub.earthobservations.org/packages/1f0cq-zc482" background-interactive=true }
+## {transition="fade" background-iframe="base.html" background-interactive=true }
 
 # Questions ? {transition="fade" .cover-section}
 
