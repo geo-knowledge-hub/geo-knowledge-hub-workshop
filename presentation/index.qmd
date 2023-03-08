@@ -105,6 +105,34 @@ This part of the workshop will show you the features available in the GEO Knowle
 
 (Access)
 
+## Accessing a Knowledge Package { transition="fade" }
+
+::: {.fragment .fade-left .centered .mt-30}
+[Monitoring Mangrove Extent in Africa using Digital Earth Africa Data Cube](https://gkhub.earthobservations.org/packages/1f0cq-zc482){preview-link=true}
+:::
+
+::: {.fragment .fade-up .centered .image .frame}
+
+![[Digital Earth Africa](https://www.digitalearthafrica.org/)](assets/images/logo/dea.jpeg){width=45%}
+
+:::
+
+## Accessing a Knowledge Package  { transition="fade" }
+
+::: {.centered .mtn-30}
+
+![](assets/images/packages/dea-example-001.svg){width="85%" .centered}
+
+:::
+
+## Accessing a Knowledge Package { transition="fade" }
+
+::: {.centered .mtn-30}
+
+![](assets/images/packages/dea-example-002.svg){width="85%" .centered}
+
+:::
+
 ## { transition="fade" background-iframe="base.html" background-interactive=true }
 
 <!-- User perspectives: Interact -->
@@ -210,6 +238,20 @@ This part of the workshop will show you the features available in the GEO Knowle
 
 :::
 
+## Deposit interface {transition="fade"}
+
+::: {.centered .mt-30 .image .frame}
+::: { .fs-30 }
+[inveniordm.docs.cern.ch/reference/metadata](https://inveniordm.docs.cern.ch/reference/metadata){preview-link=true}
+:::
+
+::: {.mtn-40}
+<a data-preview-link="true" href="https://inveniordm.docs.cern.ch/reference/metadata">
+![](assets/images/metadata/inveniordm-metadata-ref.png){width="85%"}
+</a>
+:::
+:::
+
 # Creating a Knowledge Package {transition="fade" .cover-section}
 
 ## Example Knowledge Package {transition="fade"}
@@ -252,217 +294,18 @@ Detecting deforestation using data cubes and deep learning
 
 </div>
 
-## Creating a Knowledge Package {transition="fade"}
-
-::: columns
-::: {.column width="40%"}
-
-::: {.fragment .fade-up}
-![](assets/images/deposit/2_package/package-002.svg){.side .image}
-:::
-:::
-::: {.column width="60%"}
-:::
-:::
-
-## Creating a Knowledge Package
-
-::: columns
-::: {.column width="35%"}
-
-![](assets/images/deposit/2_package/package-003.svg){.side .image}
-
-:::
-
-::: {.column .mt-70 width="55%"}
-
-<div class="centered">
-<div class="borders spaced w500">
-
-::: {.fragment .fade-left}
-
-<div class="border rounded dashed centered">
-<p class="fs-30">Overview</p>
-</div>
-
-:::
-
-::: {.fragment .fade-left}
-
-<div class="border rounded dashed centered">
-<p class="fs-30">Related resources</p>
-</div>
-
-:::
-
-::: {.fragment .fade-left}
-
-<div class="border rounded dashed centered">
-<p class="fs-30">Organization of the package</p>
-</div>
-
-:::
-
-</div>
-</div>
-
-:::
-:::
-
-## Creating a Knowledge Package
-
-::: columns
-::: {.column width="35%"}
-
-![](assets/images/deposit/2_package/package-003.svg){.side .image}
-
-:::
-
-::: {.column .mt-150 width="60%"}
-
-<div class="centered">
-<p class="justified">
-The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.cern.ch/reference/metadata/){preview-link="true"} which is aligned with the [Data Cite Metadata Schema V4.x](https://schema.datacite.org/){preview-link="true"}.
-</p>
-</div>
-
-:::
-:::
-
-## Creating a Knowledge Package
-
-::: columns
-::: {.column width="35%"}
-
-![](assets/images/deposit/2_package/package-004.svg){.side .image}
-
-:::
-
-::: {.column .mt-70 width="55%"}
-
-<div class="centered">
-<div class="borders spaced w500">
-
-::: {.fragment .fade-left}
-
-<div class="border rounded dashed centered">
-<p class="fs-30">Document</p>
-</div>
-
-:::
-
-::: {.fragment .fade-left}
-
-<div class="border rounded dashed centered">
-<p class="fs-30">Videos</p>
-</div>
-
-:::
-
-::: {.fragment .fade-left}
-
-<div class="border rounded dashed centered">
-<p class="fs-30">Useful files</p>
-</div>
-
-:::
-
-</div>
-</div>
-
-:::
-:::
-
 ## {transition="fade" background-iframe="base.html" background-interactive=true }
 
 <!-- Associating resources (A) -->
 ## Creating a Knowledge Package {transition="fade"}
 
-::: columns
-::: {.column width="35%"}
+::: {.centered .mtn-20}
 
-![](assets/images/deposit/2_package/package-002.svg){.side .image}
-
-:::
-
-::: {.column .mt-70 width="55%"}
-
-:::
-:::
-
-<!-- Associating resources (B) -->
-## Creating a Knowledge Package {transition="fade"}
-
-::: columns
-::: {.column width="35%"}
-
-![](assets/images/deposit/2_package/package-005.svg){.side .image}
+![](assets/images/deposit/2_package/package-011a.svg){width="80%" .centered}
 
 :::
 
-::: {.column .mt-70 width="55%"}
 
-:::
-:::
-
-<!-- Associating resources (C) -->
-## Creating a Knowledge Package {transition="fade"}
-
-::: columns
-::: {.column width="35%"}
-
-![](assets/images/deposit/2_package/package-006.svg){.side .image}
-
-:::
-
-::: {.column .mt-70 width="55%"}
-
-:::
-:::
-
-<!-- Associating resources (D) -->
-## Creating a Knowledge Package {transition="fade"}
-
-::: columns
-::: {.column width="50%"}
-
-![](assets/images/deposit/2_package/package-007.svg){.side .image}
-
-:::
-
-::: {.column .mt-70 width="50%"}
-
-:::
-:::
-
-<!-- Associating resources (E) -->
-## Creating a Knowledge Package {transition="fade"}
-
-::: {.centered .mtn-80}
-
-![](assets/images/deposit/2_package/package-008.svg){width="100%"}
-
-:::
-
-<!-- Associating resources (F) -->
-## Creating a Knowledge Package {transition="fade"}
-
-::: {.centered .mtn-80}
-
-![](assets/images/deposit/2_package/package-009.svg){width="100%"}
-
-:::
-
-<!-- Associating resources (G) -->
-## Creating a Knowledge Package {transition="fade"}
-
-::: {.centered .mtn-80}
-
-![](assets/images/deposit/2_package/package-010.svg){width="100%" .centered}
-
-:::
-
-<!-- Associating resources (H) - Practical -->
 ## {transition="fade" background-iframe="base.html" background-interactive=true }
 
 <!-- Associating resources (I) -->
@@ -470,7 +313,7 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 
 ::: {.centered .mtn-20}
 
-![](assets/images/deposit/2_package/package-011.svg){width="80%" .centered}
+![](assets/images/deposit/2_package/package-011b.svg){width="80%" .centered}
 
 :::
 
@@ -478,7 +321,7 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 ## {transition="fade" background-iframe="base.html" background-interactive=true }
 
 <!-- Associating resources (K) -->
-## Creating a new version {transition="fade"}
+## Creating a Knowledge Package {transition="fade"}
 
 ::: {.centered .mtn-20}
 
@@ -572,15 +415,12 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 :::
 
 <!-- Versioning (J) - Practical -->
+<!-- DEPOSIT_ID_CHANGE -->
 ## {transition="fade" background-iframe="base.html" background-interactive=true }
 
 # Questions ? {transition="fade" .cover-section}
 
 :thinking:
-
-# Pause break {transition="fade" .cover-section}
-
-:tea: :watch:
 
 # Knowledge Provider perspective {transition="fade" .cover-section}
 
@@ -621,6 +461,20 @@ The metadata schema is based on [InvenioRDM Metadata](https://inveniordm.docs.ce
 <!-- Managing (E) - Practical -->
 <!-- Knowledge Package context + Community -->
 ## {transition="fade" background-iframe="base.html" background-interactive=true }
+
+## Documentation {transition="fade"}
+
+::: {.centered .mt-30 .image .frame}
+::: { .fs-30 }
+[gkhub.earthobservations.org/doc](https://gkhub.earthobservations.org/doc/){preview-link=true}
+:::
+
+::: {.mtn-40}
+<a data-preview-link="true" href="https://gkhub.earthobservations.org/doc/">
+![](assets/images/metadata/gkhub-documentation-page.png){width="85%"}
+</a>
+:::
+:::
 
 # Questions ? {transition="fade" .cover-section}
 
@@ -737,10 +591,6 @@ One example of a client tool we create and use is the [GEO Package Loader](https
 
 :::
 
-# Questions ? {transition="fade" .cover-section}
-
-:thinking:
-
 ## Next steps {transition="fade"}
 
 ::: {.fragment .fade-left .mt-30}
@@ -756,7 +606,7 @@ One example of a client tool we create and use is the [GEO Package Loader](https
 :::
 
 ::: {.fragment .fade-left .mt-30}
-- (`Future`) R client to integrate the analytical environment with the GEO Knowledge Hub
+- (`Future`) Commercial application marketplace
 :::
 
 ## Start colaborating today!
@@ -773,9 +623,15 @@ If you want to start collaborating with the GEO Knowledge Hub, the links below c
 -   (`Google Form`) [Suggest a new community](https://docs.google.com/forms/d/e/1FAIpQLScqnix8Jqc-Yhky442LghnfENQu5OnBJUymI03KkbQd_hnZqQ/viewform){preview-link="true"}
 :::
 
-# Invite for you {transition="fade" .cover-section}
+## Start colaborating today! {transition="fade"}
 
-Open Data Open Knowledge
+::: {.mt-150 .centered .fs-50}
+How are you using the GEO Knowledge Hub content, or do you plan to use it?
+:::
+
+# Our invitation for you {transition="fade" .cover-section}
+
+Open Data Open Knowledge Workshop
 
 ##
 
@@ -814,4 +670,26 @@ Registrations are open! <br/> [earthobservations.org/odok2023.php](https://www.e
 :::
 :::
 
+:::
+
+## {transition="fade"}
+
+::: {.centered .mtn-20 }
+
+Open Data Open Knowledge Workshop
+
+:::
+
+::: {.mt-80 }
+::: columns
+::: {.fragment .fade-up .column .centered .image .frame}
+
+![Day 1 (15th June, 2023)](assets/images/odok/odok-schedule-001.png)
+
+:::
+
+::: {.fragment .fade-up .column .centered .image .frame}
+![Day 2 (16th June, 2023)](assets/images/odok/odok-schedule-002.png)
+:::
+:::
 :::
