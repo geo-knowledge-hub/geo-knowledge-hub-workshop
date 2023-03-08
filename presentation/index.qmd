@@ -98,7 +98,7 @@ This part of the workshop will show you the features available in the GEO Knowle
 (Search)
 :::
 
-## { transition="fade" background-iframe="base.html" background-interactive=true }
+## { transition="fade" background-iframe="https://gkhub.earthobservations.org/" background-interactive=true }
 
 <!-- User perspectives: Access -->
 # User perspective { transition="fade" .cover-section }
@@ -133,14 +133,14 @@ This part of the workshop will show you the features available in the GEO Knowle
 
 :::
 
-## { transition="fade" background-iframe="base.html" background-interactive=true }
+## { transition="fade" background-iframe="https://gkhub.earthobservations.org/" background-interactive=true }
 
 <!-- User perspectives: Interact -->
 # User perspective {transition="fade" .cover-section}
 
 (Interact)
 
-## {transition="fade" background-iframe="base.html" background-interactive=true }
+## {transition="fade" background-iframe="https://gkhub.earthobservations.org/packages/1f0cq-zc482" background-interactive=true }
 
 # Questions ? {transition="fade" .cover-section}
 
@@ -208,38 +208,6 @@ This part of the workshop will show you the features available in the GEO Knowle
 
 ## Deposit interface {transition="fade"}
 
-::: {.centered .mtn-60}
-
-![](assets/images/deposit/1_records/record-007.svg)
-
-:::
-
-## Deposit interface {transition="fade"}
-
-::: {.centered .mtn-60}
-
-![](assets/images/deposit/1_records/record-008.svg)
-
-:::
-
-## Deposit interface {transition="fade"}
-
-::: {.centered .mtn-60}
-
-![](assets/images/deposit/1_records/record-009.svg)
-
-:::
-
-## Deposit interface {transition="fade"}
-
-::: {.centered .mtn-60}
-
-![](assets/images/deposit/1_records/record-010.svg)
-
-:::
-
-## Deposit interface {transition="fade"}
-
 ::: {.centered .mt-30 .image .frame}
 ::: { .fs-30 }
 [inveniordm.docs.cern.ch/reference/metadata](https://inveniordm.docs.cern.ch/reference/metadata){preview-link=true}
@@ -250,6 +218,14 @@ This part of the workshop will show you the features available in the GEO Knowle
 ![](assets/images/metadata/inveniordm-metadata-ref.png){width="85%"}
 </a>
 :::
+:::
+
+## Deposit interface {transition="fade"}
+
+::: {.centered .mtn-60}
+
+![](assets/images/deposit/1_records/record-007.svg)
+
 :::
 
 # Creating a Knowledge Package {transition="fade" .cover-section}
