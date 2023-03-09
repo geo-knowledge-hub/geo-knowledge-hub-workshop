@@ -13,7 +13,7 @@ This repository stores the auxiliary materials (e.g., Presentation, Knowledge Pa
 
 To access the presentations of the workflow, please, use the following links:
 
-- [1. Introduction to the Open Knowledge and the GEO Knowledge Hub concepts](https://github.com/geo-knowledge-hub/geo-knowledge-hub-workshop/raw/main/presentation/base/GEO%20Knowledge%20Hub%20Workshop%20-%20March%209th%202023.pdf)
+- [1. Introduction to the Open Knowledge and the GEO Knowledge Hub concepts](https://geo-knowledge-hub.github.io/geo-knowledge-hub-workshop/base/GEO%20Knowledge%20Hub%20Workshop%20-%20March%209th%202023.pdf)
 - [2. Tour session in the GEO Knowledge Hub](https://geo-knowledge-hub.github.io/geo-knowledge-hub-workshop/#/title-slide)
 
 ### Workshop details
