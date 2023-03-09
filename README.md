@@ -26,7 +26,3 @@ To access the presentations of the workflow, please, use the following links:
 1. Introduction to the GEO Knowledge Hub and its role in reproducible science
 2. GEO Knowledge Hub features to share and reuse EO Applications
 3. Next steps and questions
-
-`Registration`
-
-To registrate, you can [click here](https://us02web.zoom.us/webinar/register/WN_rJOVwqlDSi2RpKtBRExnkA). After registering, you will receive a confirmation email with information on how to join the webinar.
