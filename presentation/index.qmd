@@ -669,3 +669,5 @@ Open Data Open Knowledge Workshop expected schedule
 :::
 :::
 :::
+
+# Thank you {transition="fade" .cover-section}
