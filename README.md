@@ -13,7 +13,6 @@ This repository stores the auxiliary materials (e.g., Presentation, Knowledge Pa
 This material will be used in the practical demonstration "GEO Knowledge Hub: Publishing Knowledge Packages" at ODOK 2023. The event will take place in Geneva, but you can also [follow the session via Zoom](https://us02web.zoom.us/webinar/register/WN_iix0Jj8dQi6v7TWe3bM9tg).
 
 <div style="background-color: #f5f5f5; border-radius: 5px; padding: 10px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); margin: 10px 0;">
-  <h3 style="margin: 0; font-size: 18px;">GEO Knowledge Hub: Publishing Knowledge Packages</h3>
   <div style="border-top: 1px solid #ddd; margin: 5px 0;"></div>
   <p style="margin: 0; font-size: 14px;"><strong>Time:</strong> 11:30 - 12:30 (Geneva time)</p>
   <p style="margin: 0; font-size: 14px;"><strong>Room:</strong> 5J Room</p>
