@@ -1,7 +1,5 @@
 ## Detecting deforestation using data cubes and deep learning
 
-> This is an example Knowledge Package for the "What the GEO Knowledge Hub can do for you ?" workshop.
-
 The Knowledge Package "Detecting deforestation using data cubes and deep learning" presents how the sits package can be used to generate deforestation maps, using time series extracted from data cubes and Deep Learning algorithms.
 
 This directory is a [Knowledge Package Repository](https://github.com/geo-knowledge-hub/geo-package-loader#knowledge-package-repository) containing all the files and metadata needed to publish the package on GEO Knowledge Hub. In total, 7 Knowledge Resources are available:
