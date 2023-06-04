@@ -1,3 +1,5 @@
-# GEO Knowledge Hub Workshop presentation
+# GEO Knowledge Hub @ ODOK 2023
 
-Presentation created using [Quarto](https://quarto.org/) for the GEO Knowledge Hub workshop.
+Presentation for the GEO Knowledge Hub practical demonstration at ODOK 2023.
+
+> More details cooming soon

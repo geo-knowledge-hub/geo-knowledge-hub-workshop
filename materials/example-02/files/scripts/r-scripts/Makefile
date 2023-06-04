@@ -6,7 +6,7 @@
 docker-build:  ## (Docker) Build the Docker image of the environment.
 	docker build -t "geoknowledgehub/sits-environment:1.2.0" .
 
-docker-run: docker-load ## (Docker) Run the Docker image.
+docker-run:  ## (Docker) Run the Docker image.
 	docker run -d \
 		--name geo-workshop-application \
 		--volume ${PWD}:/mnt/package \

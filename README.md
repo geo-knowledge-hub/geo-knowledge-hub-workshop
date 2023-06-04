@@ -1,28 +1,23 @@
-# GEO Knowledge Hub Workshop
+# GEO Knowledge Hub @ ODOK 2023
 
-The GEO Knowledge Hub (GKH) is a central cloud-based digital library providing access to
-Earth Observations applications developed by GEO Work Programme Activities, It includes
-applications that help users working on agriculture, disaster risk reduction, urban planning
-and more.
+[![ODOK 2023 Banner](.github/assets/top_banner_odok.jpg)](https://www.earthobservations.org/odok2023.php)
 
-To learn more about the new features available in the GEO Knowledge Hub and how you can start using it, join the workshop "What the GEO Knowledge Hub can do for you ?". The workshop has been designed for existing knowledge providers and new and potential users.
+The GEO Knowledge Hub (GKH) is a central cloud-based digital library providing access to Earth Observations applications developed by GEO Work Programme Activities, It includes applications that help users working on agriculture, disaster risk reduction, urban planning and more.
 
-This repository stores the auxiliary materials (e.g., Presentation, Knowledge Packages resources) for the workshop.
+To learn more about the new features available in the GEO Knowledge Hub and how you can start using it, join the practical demonstration session "GEO Knowledge Hub: Publishing Knowledge Packages" that will be presented at [Open Data and Open Knowledge Workshop 2023](https://www.earthobservations.org/odok2023.php).
 
-### Workshop presentation
+This repository stores the auxiliary materials (e.g., Presentation, Knowledge Packages resources) for the practical demonstration.
 
-To access the presentations of the workflow, please, use the following links:
+### Practical demonstration details
 
-- [1. Introduction to the Open Knowledge and the GEO Knowledge Hub concepts](https://geo-knowledge-hub.github.io/geo-knowledge-hub-workshop/base/GEO%20Knowledge%20Hub%20Workshop%20-%20March%209th%202023.pdf)
-- [2. Tour session in the GEO Knowledge Hub](https://geo-knowledge-hub.github.io/geo-knowledge-hub-workshop/#/title-slide)
+This material will be used in the practical demonstration "GEO Knowledge Hub: Publishing Knowledge Packages" at ODOK 2023. The event will take place in Geneva, but you can also [follow the session via Zoom](https://us02web.zoom.us/webinar/register/WN_iix0Jj8dQi6v7TWe3bM9tg).
 
-### Workshop details
+<div style="background-color: #f5f5f5; border-radius: 5px; padding: 10px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); margin: 10px 0;">
+  <h3 style="margin: 0; font-size: 18px;">GEO Knowledge Hub: Publishing Knowledge Packages</h3>
+  <div style="border-top: 1px solid #ddd; margin: 5px 0;"></div>
+  <p style="margin: 0; font-size: 14px;"><strong>Time:</strong> 11:30 - 12:30 (Geneva time)</p>
+  <p style="margin: 0; font-size: 14px;"><strong>Room:</strong> 5J Room</p>
+  <p style="margin: 0; font-size: 14px;"><strong>Zoom Registration:</strong> <a href="https://us02web.zoom.us/webinar/register/WN_iix0Jj8dQi6v7TWe3bM9tg">Register Here</a></p>
+</div>
 
-`Date & time`: 9 March 2023 at 14:00 (Geneva time)
-
-`Duration`: 2 hours
-
-`Agenda`
-1. Introduction to the GEO Knowledge Hub and its role in reproducible science
-2. GEO Knowledge Hub features to share and reuse EO Applications
-3. Next steps and questions
+For more details, please check the [ODOK 2023 website](https://www.earthobservations.org/odok2023.php).
