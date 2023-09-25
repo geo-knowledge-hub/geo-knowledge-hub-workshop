@@ -137,6 +137,44 @@
         "en": "Knowledge Package"
       }
     },
+    "engagement_priorities": [
+      {
+        "id": "sdg-goal-15",
+        "title": {
+          "en": "(SDG) Goal 15 - Life on land"
+        }
+      }
+    ],
+    "target_audiences": [
+      {
+        "id": "tu-gis-technical-expert-national-agricultural",
+        "title": {
+          "en": "GIS Technical experts in national agencies for agricultural"
+        }
+      },
+      {
+        "id": "tu-environmental-protection-agencies",
+        "title": {
+          "en": "Environmental Protection Agencies"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "icon": "cc-by-icon",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "Retains copyright in the data and provides a license that permitsthe user to use, copy, modify, and redistribute the data for any purpose, provided that the user provides credit to the original data provider."
+        }
+      }
+    ],
     "subjects": [
       {
         "subject": "big Earth observation data"
