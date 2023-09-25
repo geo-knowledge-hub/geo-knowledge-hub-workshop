@@ -156,6 +156,33 @@
       },
       "id": "dataset-lulcmap"
     },
+    "engagement_priorities": [
+      {
+        "id": "sdg-goal-15",
+        "title": {
+          "en": "(SDG) Goal 15 - Life on land"
+        }
+      }
+    ],
+    "locations": {
+      "features": [
+        {
+          "place": "Study area",
+          "geometry": {
+            "coordinates": [
+              [
+                [-65.1944451622052, -10.7301656081638],
+                [-65.0116565060116, -10.7314015470853],
+                [-65.0104715740973, -10.5506293383322],
+                [-65.1931527634412, -10.5494146826281],
+                [-65.1944451622052, -10.7301656081638]
+              ]
+            ],
+            "type": "Polygon"
+          }
+        }
+      ]
+    },
     "target_audiences": [
       {
         "id": "tu-gis-technical-expert-national-agricultural",
