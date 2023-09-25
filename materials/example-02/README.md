@@ -22,6 +22,8 @@ To publish this Knowledge Package in the GEO Knowledge Hub, please follow the co
 
 You must first prepare the files (e.g., Zip data and scripts) to publish in the GEO Knowledge Hub. You can do this by using the command below:
 
+> This process can take time as it will build and export a docker image.
+
 ```sh
 make package-prepare
 
@@ -47,7 +49,7 @@ make package-load GKHUB_API_ADDRESS= GKHUB_API_TOKEN=
 #>  Packages API....................: https://<GEO Knowledge Hub API Address>/api/packages
 #>  Records API.....................: https://<GEO Knowledge Hub API Address>/api/records
 #>  Personal Access Token...........: <Your access token>
-#>  Knowledge Package repository....: example-01
+#>  Knowledge Package repository....: example-02
 #>  Configuring the client to upload content to the GEO Knowledge Hub
 #>  Done!
 #>  Creating the package and its resources
