@@ -40,22 +40,45 @@
         "subject": "classification"
       }
     ],
+    
     "title": "Satellite Image Time Series Analysis for Big Earth Observation Data",
     "description": "<p>The development of analytical software for big Earth observation data faces several challenges. Designers need to balance between conflicting factors. Solutions that are efficient for specific hardware architectures can not be used in other environments. Packages that work on generic hardware and open standards will not have the same performance as dedicated solutions. Software that assumes that its users are computer programmers are flexible but may be difficult to learn for a wide audience. This paper describes sits, an open-source R package for satellite image time series analysis using machine learning. To allow experts to use satellite imagery to the fullest extent, sits adopts a time-first, space-later approach. It supports the complete cycle of data analysis for land classification. Its API provides a simple but powerful set of functions. The software works in different cloud computing environments. Satellite image time series are input to machine learning classifiers, and the results are post-processed using spatial smoothing. Since machine learning methods need accurate training data, sits includes methods for quality assessment of training samples. The software also provides methods for validation and accuracy measurement. The package thus comprises a production environment for big EO data analysis. We show that this approach produces high accuracy for land use and land cover maps through a case study in the Cerrado biome, one of the world's fast moving agricultural frontiers for the year 2018.</p><h3>Usage context</h3><p>In the \"Detecting deforestation using data cubes and deep learning\" application, this article resource is used as a base for the classification methodology applied in deforestation events detection.</p><h3>Accessing the article</h3><p>To access the article, please, use the following link: <a href=\"https://doi.org/10.3390/rs13132428\">https://doi.org/10.3390/rs13132428</a></p>",
+    "engagement_priorities": [
+      {
+        "id": "sdg-goal-15",
+        "title": {
+          "en": "(SDG) Goal 15 - Life on land"
+        }
+      }
+    ],
+    "target_audiences": [
+      {
+        "id": "tu-gis-technical-expert-national-agricultural",
+        "title": {
+          "en": "GIS Technical experts in national agencies for agricultural"
+        }
+      },
+      {
+        "id": "tu-environmental-protection-agencies",
+        "title": {
+          "en": "Environmental Protection Agencies"
+        }
+      }
+    ],
     "rights": [
       {
-        "title": {
-          "en": "Creative Commons Attribution 4.0 International"
-        },
-        "description": {
-          "en": "Retains copyright in the data and provides a license that permitsthe user to use, copy, modify, and redistribute the data for any purpose, provided that the user provides credit to the original data provider."
-        },
         "icon": "cc-by-icon",
         "props": {
           "scheme": "spdx",
           "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
         },
-        "id": "cc-by-4.0"
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "Retains copyright in the data and provides a license that permitsthe user to use, copy, modify, and redistribute the data for any purpose, provided that the user provides credit to the original data provider."
+        }
       }
     ],
     "creators": [
