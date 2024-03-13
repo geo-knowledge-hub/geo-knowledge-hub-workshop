@@ -1,0 +1,223 @@
+{
+    "metadata": {
+        "publication_date": "2023-03-15",
+        "resource_type": {
+            "id": "software-webportal",
+            "title": {
+                "en": "Web Portal"
+            }
+        },
+        "title": "CropWatch Cloud",
+        "subjects": [
+            {
+                "subject": "CropWatch"
+            },
+            {
+                "subject": "Cloud computing"
+            },
+            {
+                "subject": "Agriculture"
+            },
+            {
+                "subject": "Monitoring"
+            },
+            {
+                "subject": "Time Series"
+            },
+            {
+                "subject": "Crops"
+            },
+            {
+                "subject": "Vegetation mapping"
+            },
+            {
+                "subject": "NDVI"
+            },
+            {
+                "subject": "MODIS"
+            },
+            {
+                "subject": "Platform"
+            },
+            {
+                "subject": "Cloud environment"
+            }
+        ],
+        "contributors": [
+            {
+                "person_or_org": {
+                    "name": "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences",
+                    "type": "organizational"
+                },
+                "affiliations": [
+                    {
+                        "name": "Institute of Remote Sensing and Digital Earth",
+                        "id": "02cjszf03"
+                    }
+                ],
+                "role": {
+                    "id": "hostinginstitution",
+                    "title": {
+                        "de": "Bereitstellende Institution",
+                        "en": "Hosting institution"
+                    }
+                }
+            }
+        ],
+        "languages": [
+            {
+                "id": "eng",
+                "title": {
+                    "en": "English"
+                }
+            },
+            {
+                "id": "zho",
+                "title": {
+                    "en": "Chinese"
+                }
+            }
+        ],
+        "creators": [
+            {
+                "person_or_org": {
+                    "name": "CropWatch research team",
+                    "type": "organizational"
+                },
+                "role": {
+                    "id": "researchgroup",
+                    "title": {
+                        "de": "Forschungsgruppe",
+                        "en": "Research group"
+                    }
+                }
+            }
+        ],
+        "engagement_priorities": [
+            {
+                "id": "sdg-goal-2",
+                "title": {
+                    "en": "(SDG) Goal 2 - Zero Hunger"
+                }
+            }
+        ],
+        "geo_work_programme_activity": {
+            "id": "geo-activities-geoglam",
+            "title": {
+                "en": "GEO Global Agricultural Monitoring (GEOGLAM)"
+            }
+        },
+        "publisher": "GEO Knowledge Hub",
+        "related_identifiers": [
+            {
+                "identifier": "http://cloud.cropwatch.com.cn/",
+                "resource_type": {
+                    "id": "software-webportal",
+                    "title": {
+                        "en": "Web Portal"
+                    }
+                },
+                "description": "Website of the CropWatch Cloud project.",
+                "relation_type": {
+                    "id": "issupplementedby",
+                    "title": {
+                        "de": "Wird erg\u00e4nzt durch",
+                        "en": "Is supplemented by"
+                    }
+                },
+                "scheme": "url",
+                "title": "CropWatch Cloud website"
+            },
+            {
+                "identifier": "http://process.cropwatch.com.cn/CropWatch/?token=&language=en-US",
+                "resource_type": {
+                    "id": "software-webportal",
+                    "title": {
+                        "en": "Web Portal"
+                    }
+                },
+                "description": "Online interface for people producing CropWatch indicators.",
+                "relation_type": {
+                    "id": "issupplementedby",
+                    "title": {
+                        "de": "Wird erg\u00e4nzt durch",
+                        "en": "Is supplemented by"
+                    }
+                },
+                "scheme": "url",
+                "title": "CropWatch Processing"
+            },
+            {
+                "identifier": "http://cropwatch.com.cn/newcropwatch/main.htm?language=en&token=",
+                "resource_type": {
+                    "id": "software-webportal",
+                    "title": {
+                        "en": "Web Portal"
+                    }
+                },
+                "description": "Visualization web service to smoothly explore CropWatch data.",
+                "relation_type": {
+                    "id": "issupplementedby",
+                    "title": {
+                        "de": "Wird erg\u00e4nzt durch",
+                        "en": "Is supplemented by"
+                    }
+                },
+                "scheme": "url",
+                "title": "CropWatch Explore"
+            },
+            {
+                "identifier": "http://cloud.cropwatch.com.cn/user/login",
+                "resource_type": {
+                    "id": "software-webportal",
+                    "title": {
+                        "en": "Web Portal"
+                    }
+                },
+                "description": "Cloud collaboration documentation tool for the CropWatch teams or invited people.",
+                "relation_type": {
+                    "id": "issupplementedby",
+                    "title": {
+                        "de": "Wird erg\u00e4nzt durch",
+                        "en": "Is supplemented by"
+                    }
+                },
+                "scheme": "url",
+                "title": "CropWatch Analysis"
+            },
+            {
+                "identifier": "http://cloud.cropwatch.com.cn/site/bulletin",
+                "resource_type": {
+                    "id": "software-webportal",
+                    "title": {
+                        "en": "Web Portal"
+                    }
+                },
+                "description": "CropWatch bulletin for each season.",
+                "relation_type": {
+                    "id": "issupplementedby",
+                    "title": {
+                        "de": "Wird erg\u00e4nzt durch",
+                        "en": "Is supplemented by"
+                    }
+                },
+                "scheme": "url",
+                "title": "CropWatch Bulletin"
+            }
+        ],
+        "description": "<p>CropWatch Cloud is an online all-in-one solution platform based on Cloud technology that enables users to produce and generate bulleting and provides an alternative way to access agricultural monitoring indicators and results in CropWatch.&nbsp;</p><p>Crop Watch Cloud provides four main components:&nbsp;</p><ul><li><a href=\"http://process.cropwatch.com.cn/CropWatch/?token=&amp;language=en-US\">CropWatch Processing</a> <strong>(Login required)</strong>: provides an online interface for people producing CropWatch indicators at anytime and anywhere from county to global scales.&nbsp;</li><li><a href=\"http://cropwatch.com.cn/newcropwatch/main.htm?language=en&amp;token=crop-640b3ca127c9e6.54611704\">CropWatch Explore</a> <strong>(Login required)</strong>: provides a visualization web service for users to smoothly explore CropWatch data including agro-climatic indicators, agronomic indicators related with crop area, crop yield and crop production.&nbsp;</li><li><a href=\"http://cloud.cropwatch.com.cn/user/login\">CropWatch Analysis</a> <strong>(Login required)</strong>: is cloud collaboration documentation tool for the CropWatch teams or invited people from over the world analyzing their CropWatch indicators anywhere. It provides create document, allocate and manage tasks, monitor schedule and publish the document online functions which let people over the world finish their documents together on the cloud platform.&nbsp;</li><li><a href=\"http://cloud.cropwatch.com.cn/site/bulletin\">CropWatch Bulletin</a>: publishes the CropWatch bulletin for each season.&nbsp;</li></ul>"
+    },
+    "access": {
+        "embargo": {
+            "active": false,
+            "reason": null
+        },
+        "files": "public",
+        "record": "public",
+        "status": "metadata-only"
+    },
+    "files": {
+        "order": [],
+        "enabled": false
+    }
+}

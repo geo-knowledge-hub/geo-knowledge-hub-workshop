@@ -1,0 +1,46 @@
+{
+   "knowledge_package": {
+      "metadata_file": "metadata/package/metadata.json",
+      "files": [],
+      "options": {
+         "include_doi": true
+      }
+   },
+   "resources": [
+      {
+         "metadata_file": "metadata/resources/cropwatch-article/metadata.json",
+         "files": [],
+         "options": {
+            "include_doi": true
+         }
+      },
+      {
+         "metadata_file": "metadata/resources/cropwatch-dataset/metadata.json",
+         "files": [
+            "files/documents/CropWatch Indicators.pdf"
+         ],
+         "options": {
+            "include_doi": true
+         }
+      },
+      {
+         "metadata_file": "metadata/resources/cropwatch-others/metadata.json",
+         "files": [],
+         "options": {
+            "include_doi": true
+         }
+      },
+      {
+         "metadata_file": "metadata/resources/cropwatch-software-1/metadata.json",
+         "options": {
+            "include_doi": true
+         }
+      },
+      {
+         "metadata_file": "metadata/resources/cropwatch-software-2/metadata.json",
+         "options": {
+            "include_doi": true
+         }
+      }
+   ]
+}

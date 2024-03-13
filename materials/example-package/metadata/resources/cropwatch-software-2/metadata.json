@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "target_audiences": [
+            {
+                "id": "tu-agriculture-forest-departments",
+                "title": {
+                    "en": "Agriculture and Forest Departments"
+                }
+            },
+            {
+                "id": "tu-gis-technical-expert-national-agricultural",
+                "title": {
+                    "en": "GIS Technical experts in national agencies for agricultural"
+                }
+            }
+        ],
+        "publication_date": "2024-01-16",
+        "dates": [
+            {
+                "type": {
+                    "id": "issued",
+                    "title": {
+                        "de": "Ver\u00f6ffentlicht",
+                        "en": "Issued"
+                    }
+                },
+                "date": "2023-12-10"
+            }
+        ],
+        "resource_type": {
+            "id": "software",
+            "title": {
+                "en": "Software"
+            }
+        },
+        "title": "FieldWatch Smart Phone APP",
+        "subjects": [
+            {
+                "subject": "Crop conditions"
+            },
+            {
+                "subject": "CropWatch"
+            }
+        ],
+        "languages": [
+            {
+                "id": "eng",
+                "title": {
+                    "en": "English"
+                }
+            },
+            {
+                "id": "cmn",
+                "title": {
+                    "en": "Mandarin Chinese"
+                }
+            }
+        ],
+        "creators": [
+            {
+                "person_or_org": {
+                    "name": "Tian, Fuyou",
+                    "type": "personal",
+                    "family_name": "Tian",
+                    "given_name": "Fuyou"
+                }
+            }
+        ],
+        "engagement_priorities": [
+            {
+                "id": "sdg-goal-2",
+                "title": {
+                    "en": "(SDG) Goal 2 - Zero Hunger"
+                }
+            }
+        ],
+        "geo_work_programme_activity": {
+            "id": "geo-activities-geoglam",
+            "title": {
+                "en": "GEO Global Agricultural Monitoring (GEOGLAM)"
+            }
+        },
+        "publisher": "Aerospace Information Research Institute, Chinese Academy of Sciences",
+        "rights": [
+            {
+                "icon": "cc-by-icon",
+                "description": {
+                    "en": "Retains copyright in the data and provides a license that permits the user to use, copy, modify, and redistribute the data for any purpose, provided that the user provides credit to the original data provider."
+                },
+                "id": "cc-by-4.0",
+                "props": {
+                    "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                    "scheme": "spdx"
+                },
+                "title": {
+                    "en": "Creative Commons Attribution 4.0 International"
+                }
+            }
+        ],
+        "related_identifiers": [
+            {
+                "identifier": "https://play.google.com/store/apps/details?id=com.wisewoods.xtt&hl=en&gl=US",
+                "resource_type": {
+                    "id": "software",
+                    "title": {
+                        "en": "Software"
+                    }
+                },
+                "description": "FieldWatch in Google Play",
+                "relation_type": {
+                    "id": "ispublishedin",
+                    "title": {
+                        "de": "Ist ver\u00f6ffentlicht in",
+                        "en": "Is published in"
+                    }
+                },
+                "scheme": "url",
+                "title": "FieldWatch APP"
+            }
+        ],
+        "description": "<p>FieldWatch is developed by the Cropwatch research team based on multi-source remote sensing data and artificial intelligence technology. It uses the positioning function of smartphones to determine the area of plots and obtain agro-meteorological indicators within the area of plots to achieve crop growth monitoring based on medium- and high-resolution remote sensing images. Artificial intelligence model is used to identify crop head, crop seed and seed size to estimate crop yield at ground level without disturbing the crop plants. A similar approach is used to detect pests and diseases using computer vision techniques. Currently, we only offer the Android version of FieldWatch APP and the iOS version is still under development.</p>"
+    },
+    "files": {
+        "order": [],
+        "enabled": false
+    },
+    "access": {
+        "embargo": {
+            "active": false,
+            "reason": null
+        },
+        "files": "public",
+        "record": "public",
+        "status": "metadata-only"
+    }
+}

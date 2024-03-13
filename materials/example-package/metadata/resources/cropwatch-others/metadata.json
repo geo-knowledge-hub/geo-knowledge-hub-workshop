@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "target_audiences": [
+            {
+                "id": "tu-agriculture-forest-departments",
+                "title": {
+                    "en": "Agriculture and Forest Departments"
+                }
+            }
+        ],
+        "publication_date": "2024-01-15",
+        "dates": [
+            {
+                "type": {
+                    "id": "issued",
+                    "title": {
+                        "de": "Ver\u00f6ffentlicht",
+                        "en": "Issued"
+                    }
+                },
+                "date": "2021-07-07"
+            }
+        ],
+        "resource_type": {
+            "id": "lesson",
+            "title": {
+                "en": "Lesson (Training material)"
+            }
+        },
+        "title": "CropWatch training materials",
+        "subjects": [
+            {
+                "subject": "CropWatch"
+            },
+            {
+                "subject": "Monitoring system"
+            }
+        ],
+        "languages": [
+            {
+                "id": "eng",
+                "title": {
+                    "en": "English"
+                }
+            },
+            {
+                "id": "tha",
+                "title": {
+                    "en": "Thai"
+                }
+            },
+            {
+                "id": "lao",
+                "title": {
+                    "en": "Lao"
+                }
+            },
+            {
+                "id": "khm",
+                "title": {
+                    "en": "Central Khmer"
+                }
+            },
+            {
+                "id": "vie",
+                "title": {
+                    "en": "Vietnamese"
+                }
+            }
+        ],
+        "creators": [
+            {
+                "person_or_org": {
+                    "name": "Zhang, Miao",
+                    "type": "personal",
+                    "family_name": "Zhang",
+                    "given_name": "Miao"
+                }
+            },
+            {
+                "person_or_org": {
+                    "name": "Wu, Bingfang",
+                    "type": "personal",
+                    "family_name": "Wu",
+                    "given_name": "Bingfang"
+                }
+            }
+        ],
+        "engagement_priorities": [
+            {
+                "id": "sdg-goal-2",
+                "title": {
+                    "en": "(SDG) Goal 2 - Zero Hunger"
+                }
+            }
+        ],
+        "geo_work_programme_activity": {
+            "id": "geo-activities-geoglam",
+            "title": {
+                "en": "GEO Global Agricultural Monitoring (GEOGLAM)"
+            }
+        },
+        "publisher": "UNESCAP",
+        "rights": [
+            {
+                "icon": "cc-by-icon",
+                "description": {
+                    "en": "Retains copyright in the data and provides a license that permits the user to use, copy, modify, and redistribute the data for any purpose, provided that the user provides credit to the original data provider."
+                },
+                "id": "cc-by-4.0",
+                "props": {
+                    "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                    "scheme": "spdx"
+                },
+                "title": {
+                    "en": "Creative Commons Attribution 4.0 International"
+                }
+            }
+        ],
+        "related_identifiers": [
+            {
+                "identifier": "https://www.unescap.org/kp/2021/cropwatch-pro-user-manual",
+                "resource_type": {
+                    "id": "lesson",
+                    "title": {
+                        "en": "Lesson (Training material)"
+                    }
+                },
+                "description": "Training material",
+                "relation_type": {
+                    "id": "ispublishedin",
+                    "title": {
+                        "de": "Ist ver\u00f6ffentlicht in",
+                        "en": "Is published in"
+                    }
+                },
+                "scheme": "url",
+                "title": "CropWatch Pro User Manual"
+            }
+        ],
+        "description": "<p>This external resources provide user manual of CropWatch system in five different languages. The user's manual of the CropWatch Pro, under the Aerospace Information Research Institute (AIR) funded project,&nbsp;is translated from English to the relevant local languages for lower Mekong river countries, including Cambodia, Lao PDR, Thailand and Viet Nam, to allow more government officials have access to a wider range of space-based data and geospatial information products including a cloud-based crop monitoring system service to effectively monitor rice crops.</p>"
+    },
+    "access": {
+        "embargo": {
+            "active": false,
+            "reason": null
+        },
+        "files": "public",
+        "record": "public",
+        "status": "metadata-only"
+    },
+    "files": {
+        "order": [],
+        "enabled": false
+    }
+}

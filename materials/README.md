@@ -2,14 +2,8 @@
 
 This directory has extra materials that complement the GEO Knowledge Hub workshop. The following materials are available:
 
-**Example 1: SITS Knowledge Package**
+**Example 1: CropWatch example Knowledge Package**
 
-This example presents how an EO application created using the R language and the [SITS Package](https://github.com/e-sensing/sits) can be bundled as a reproducible Knowledge Package.
+This example presents an example of a Knowledge Package. This example was created using content from the [CropWatch Knowledge Package](https://gkhub.earthobservations.org/packages/pps5h-ea276) available in the GEO Knowledge Hub
 
 [Click here to access](./example-01/)
-
-**Example 2: SITS Knowledge Package using the GEO Knowledge Hub Rest API**
-
-As an extension of `Example 1`, this second example presents how a EO application can take advantage of the GEO Knowledge Hub Rest API to simplify its reproduction.
-
-[Click here to access](./example-02/)
