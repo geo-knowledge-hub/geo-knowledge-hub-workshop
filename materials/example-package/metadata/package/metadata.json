@@ -1,178 +1,199 @@
 {
   "files": {
-    "order": [],
-    "enabled": false
+    "enabled": true,
+    "order": []
   },
   "metadata": {
-    "publication_date": "2024-01-16",
-    "dates": [
-      {
-        "type": {
-          "id": "accepted",
-          "title": {
-            "de": "Angenommen",
-            "en": "Accepted"
-          }
+    "locations": {
+      "features": [
+        {
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  9.228516,
+                  35.839622
+                ],
+                [
+                  9.228516,
+                  45.545605
+                ],
+                [
+                  20.039063,
+                  45.545605
+                ],
+                [
+                  20.039063,
+                  35.839622
+                ],
+                [
+                  9.228516,
+                  35.839622
+                ]
+              ]
+            ]
+          },
+          "place": "Italy"
         },
-        "date": "2018-01-01"
-      }
-    ],
-    "resource_type": {
-      "id": "knowledge",
-      "title": {
-        "en": "Knowledge Package"
-      }
+        {
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -4.670653732457282,
+                  41.27732135543212
+                ],
+                [
+                  -4.670653732457282,
+                  39.53030839119475
+                ],
+                [
+                  -2.577959766425977,
+                  39.53030839119475
+                ],
+                [
+                  -2.577959766425977,
+                  41.27732135543212
+                ],
+                [
+                  -4.670653732457282,
+                  41.27732135543212
+                ]
+              ]
+            ]
+          },
+          "place": "Spain"
+        }
+      ]
     },
-    "title": "CropWatch Monitoring System",
-    "subjects": [
+    "rights": [
       {
-        "subject": "Crop conditions"
-      },
-      {
-        "subject": "Agricultural Production"
-      },
-      {
-        "subject": "CropWatch"
-      },
-      {
-        "subject": "GLAM"
-      },
-      {
-        "subject": "Monitoring system"
-      },
-      {
-        "subject": "DAP"
-      },
-      {
-        "subject": "Cloud platform"
-      },
-      {
-        "subject": "Cloud computing"
-      },
-      {
-        "subject": "Data Analytics Platform"
-      }
-    ],
-    "contributors": [
-      {
-        "person_or_org": {
-          "name": "Aerospace Information Research Institute, Chinese Academy of Sciences",
-          "type": "organizational"
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
         },
-        "role": {
-          "id": "hostinginstitution",
-          "title": {
-            "de": "Bereitstellende Institution",
-            "en": "Hosting institution"
-          }
+        "description": {
+          "en": "Retains copyright in the data and provides a license that permitsthe user to use, copy, modify, and redistribute the data for any purpose, provided that the user provides credit to the original data provider."
+        },
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
         }
       }
     ],
     "languages": [
       {
-        "id": "eng",
         "title": {
           "en": "English"
-        }
+        },
+        "id": "eng"
       }
     ],
+    "title": "This is an example of a Knowledge Package",
+    "target_audiences": [
+      {
+        "title": {
+          "en": "GIS Technical experts in national agencies for agricultural"
+        },
+        "id": "tu-gis-technical-expert-national-agricultural"
+      },
+      {
+        "title": {
+          "en": "Agriculture and Forest Departments"
+        },
+        "id": "tu-agriculture-forest-departments"
+      },
+      {
+        "title": {
+          "en": "Environmental Protection Agencies"
+        },
+        "id": "tu-environmental-protection-agencies"
+      }
+    ],
+    "version": "v1",
+    "publisher": "GEO Knowledge Hub",
+    "publication_date": "2024-09-08",
+    "related_identifiers": [
+      {
+        "identifier": "https://gkhub.earthobservations.org/doc/docs/concepts/sharing-units/concepts-sharing-units-packages",
+        "scheme": "url",
+        "relation_type": {
+          "title": {
+            "de": "Wird erg\u00e4nzt durch",
+            "en": "Is supplemented by"
+          },
+          "id": "issupplementedby"
+        },
+        "title": "Example link",
+        "resource_type": {
+          "title": {
+            "en": "Software documentation"
+          },
+          "id": "publication-softwaredocumentation"
+        },
+        "description": "This is a document complementing the description of the Knowledge Package"
+      }
+    ],
+    "description": "<p>This is an <strong>example Knowledge Package</strong> designed to demonstrate the structure and content of a typical package within the GEO Knowledge Hub. It includes sample datasets, fictional case studies, user story, and example tools to illustrate how Earth observation data can be used for environmental analysis. This package is for demonstration purposes only and does not contain real data.</p>",
+    "geo_work_programme_activity": {
+      "title": {
+        "en": "European Group on Earth Observations (EUROGEO)"
+      },
+      "id": "geo-activities-eurogeo"
+    },
+    "resource_type": {
+      "title": {
+        "en": "Knowledge Package"
+      },
+      "id": "knowledge"
+    },
     "creators": [
       {
-        "person_or_org": {
-          "email": "cropwatch@aircas.ac.cn",
-          "name": "CropWatch research team",
-          "type": "organizational"
-        },
-        "role": {
-          "id": "researchgroup",
-          "title": {
-            "de": "Forschungsgruppe",
-            "en": "Research group"
+        "affiliations": [
+          {
+            "name": "Affiliation 0"
           }
+        ],
+        "person_or_org": {
+          "family_name": "Zero",
+          "name": "Zero, Author",
+          "given_name": "Author",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Affiliation 1"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "One",
+          "name": "One, Author",
+          "given_name": "Author",
+          "email": "author1@example.com",
+          "type": "personal"
         }
       }
     ],
     "engagement_priorities": [
       {
-        "id": "sdg-goal-2",
         "title": {
-          "en": "(SDG) Goal 2 - Zero Hunger"
-        }
+          "en": "(SDG) Goal 4 - Quality Education"
+        },
+        "id": "sdg-goal-4"
       }
     ],
-    "version": "v8",
-    "geo_work_programme_activity": {
-      "id": "geo-activities-geoglam",
-      "title": {
-        "en": "GEO Global Agricultural Monitoring (GEOGLAM)"
-      }
-    },
-    "publisher": "GEO Knowledge Hub",
-    "rights": [
+    "subjects": [
       {
-        "icon": "cc-by-icon",
-        "description": {
-          "en": "Retains copyright in the data and provides a license that permits the user to use, copy, modify, and redistribute the data for any purpose, provided that the user provides credit to the original data provider."
-        },
-        "id": "cc-by-4.0",
-        "props": {
-          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
-          "scheme": "spdx"
-        },
-        "title": {
-          "en": "Creative Commons Attribution 4.0 International"
-        }
-      }
-    ],
-    "related_identifiers": [
-      {
-        "identifier": "http://cloud.cropwatch.com.cn/",
-        "resource_type": {
-          "id": "software-webportal",
-          "title": {
-            "en": "Web Portal"
-          }
-        },
-        "description": "CropWatch Cloud Platform",
-        "relation_type": {
-          "id": "documents",
-          "title": {
-            "de": "Dokumentiert",
-            "en": "Documents"
-          }
-        },
-        "scheme": "url",
-        "title": "CropWatch Cloud"
+        "subject": "earth observation"
       },
       {
-        "identifier": "https://unctad.org/project/cropwatch-innovative-cooperation-programme",
-        "resource_type": {
-          "id": "case-study",
-          "title": {
-            "en": "Case Study"
-          }
-        },
-        "description": "CropWatch Innovative Cooperation Programme was launched and implemented in the context of the United Nations Commission on Science and Technology for Development, aims to facilitate and stimulate agricultural monitoring of 14 developing countries for the advancement of the SDG goal of zero hunger.",
-        "relation_type": {
-          "id": "documents",
-          "title": {
-            "de": "Dokumentiert",
-            "en": "Documents"
-          }
-        },
-        "scheme": "url",
-        "title": "CropWatch-ICP Programme"
+        "subject": "switzerland"
       }
-    ],
-    "description": "<p><a href=\"http://cloud.cropwatch.com.cn/\">CropWatch</a> is one of the key contributors providing global agricultural information in the GEO/GEOSS Global Agricultural Monitoring (GeoGLAM) initiative set up by the G20 to improve access to global information about the worldwide availability of major cereals (maize, wheat and rice) and soybean.&nbsp;</p><p>Since its inception in 1998, CropWatch has functioned as China's premier crop monitoring system, developed by the research team at the Chinese Academy of Sciences. In 2013, CropWatch has been upgraded to <a href=\"http://cloud.cropwatch.com.cn/\">CropWatch Cloud</a> on the basis of the Alibaba Cloud. A hierarchical approach was adopted by CropWatch, in which a four tier monitoring strategy was developed: global (110 Crop Monitoring and Reporting Units, MRU), regional (seven Major Production Zones, MPZ), national (45 key countries) and sub-national (subdivisions of nine large countries). CropWatch indicators/matrix can be divided into four categories: CropWatch agro-climatic indicators (CWAIs), arable land use intensity indicators, crop condition indicators and crop production indicators. Four different temporal and spatial resolution of indicators adapted to each scale are used in CropWatch Bulletin. Using the outputs on the four levels, a synthesis of crop condition and crop production estimates for four major crops is published in the CropWatch bulletin.&nbsp;The platform provides real-time and near real-time information services by releasing quarterly CropWatch Bulletins and online service portals, including information on agro-climatic situations, natural disasters, crop conditions, crop yield and production at global, regional, national and sub-national levels to meet the demands of agricultural information from decision makers, market participants and farmers.&nbsp;</p><p>CropWatch Cloud is the web-based platform and it consists four subsystems: CropWatch Processing, CropWatch Explorer, CropWatch Analysis, and CropWatch Bulletin.&nbsp;</p><p><a href=\"http://process.cropwatch.com.cn/CropWatch/\">CropWatch Processing</a> is the sub-component that provides you the functions and modules that convert satellite images into analysis-ready indicators and information.&nbsp;</p><p><a href=\"http://cropwatch.com.cn/newcropwatch/main.htm?language=en&amp;token=\">CropWatch Explorer</a>, a WEBGIS-based website, serves as a comprehensive repository of crop-related indicators and agricultural information, allowing users to visualize, access, and download agro-climatic and agronomic indicators, early warning indicators, and production indices for various crop types at different spatial units.</p><p><a href=\"http://cloud.cropwatch.com.cn/site/welcome\">CropWatch Analysis</a> provides users with a platform for independent analysis, enabling the generation of customized crop reports based on individual interests.</p><p><a href=\"http://cropwatch.com.cn/htm/en/bullAction!showBulletin.action\">CropWatch Bulletin</a> releases quarterly reports in English and Chinese, offering the latest CropWatch forecasts on crop production and conditions worldwide and at national levels.</p><p>CropWatch is available in 8 languages in the interface: English, Chinese, Portuguese, Khmer, Lao, Thai, Vietnamese and Arabic.&nbsp;</p><p><i>Registration</i> and <i>login is required</i> to have an access to full functionality of CropWatch services. Users are required to register and log in to unlock the full functionality of CropWatch services. New users can utilize the demonstration account (username: Gates, password: Gatestest). It is important to note that the demonstration account provided is restricted to use on a single device at any given time. Concurrent login attempts by multiple users using the same account will result in the invalidation of the login token.&nbsp;</p>"
-  },
-  "access": {
-    "embargo": {
-      "active": false,
-      "reason": null
-    },
-    "files": "public",
-    "record": "public",
-    "status": "metadata-only"
+    ]
   }
 }

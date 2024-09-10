@@ -1,13 +1,8 @@
-## Example package - CropWatch Monitoring System
+## Example Knowledge Package
 
-The Knowledge Package "CropWatch Monitoring System" introduced the CropWatch system. This package is adapted from the GEO Knowledge Hub.
+This is an example of a Knowledge Package composed of multiple elements. It is used to introduce the concepts of the GEO Knowledge Hub during the workshop.
 
-This directory is a [Knowledge Package Repository](https://github.com/geo-knowledge-hub/geo-package-loader#knowledge-package-repository) containing all the files and metadata needed to publish the package on GEO Knowledge Hub. In total, 5 Knowledge Resources are available:
-
-1. `Article`: Article describing the CropWatch system
-2. `Dataset`: Resource describing the input data used by CropWatch
-3. `Software`: Resources explaining the "CropWatch Cloud" and "FieldWatch Smart Phone App"
-4. `Training materials`: Resource explaining how the CropWatch ecosystem can be used
+> This directory is a [Knowledge Package Repository](https://github.com/geo-knowledge-hub/geo-package-loader#knowledge-package-repository) containing all the files and metadata needed to publish the package on GEO Knowledge Hub.
 
 ## Publishing the Knowledge Package
 

@@ -1,0 +1,147 @@
+{
+    "files": {
+        "enabled": true,
+        "order": []
+    },
+    "metadata": {
+        "locations": {
+            "features": [
+                {
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -4.670653732457282,
+                                    41.27732135543212
+                                ],
+                                [
+                                    -4.670653732457282,
+                                    39.53030839119475
+                                ],
+                                [
+                                    -2.577959766425977,
+                                    39.53030839119475
+                                ],
+                                [
+                                    -2.577959766425977,
+                                    41.27732135543212
+                                ],
+                                [
+                                    -4.670653732457282,
+                                    41.27732135543212
+                                ]
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        "rights": [
+            {
+                "icon": "cc-by-icon",
+                "id": "cc-by-4.0",
+                "title": {
+                    "en": "Creative Commons Attribution 4.0 International"
+                },
+                "description": {
+                    "en": "Retains copyright in the data and provides a license that permitsthe user to use, copy, modify, and redistribute the data for any purpose, provided that the user provides credit to the original data provider."
+                },
+                "props": {
+                    "scheme": "spdx",
+                    "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+                }
+            }
+        ],
+        "languages": [
+            {
+                "title": {
+                    "en": "English"
+                },
+                "id": "eng"
+            }
+        ],
+        "title": "Example dataset",
+        "target_audiences": [
+            {
+                "title": {
+                    "en": "GIS Technical experts in national agencies for agricultural"
+                },
+                "id": "tu-gis-technical-expert-national-agricultural"
+            },
+            {
+                "title": {
+                    "en": "Agriculture and Forest Departments"
+                },
+                "id": "tu-agriculture-forest-departments"
+            },
+            {
+                "title": {
+                    "en": "Environmental Protection Agencies"
+                },
+                "id": "tu-environmental-protection-agencies"
+            }
+        ],
+        "version": "v1",
+        "publisher": "GEO Knowledge Hub",
+        "publication_date": "2024-09-08",
+        "description": "<p>This is an example of a dataset uploaded to the GEO Knowledge Hub</p>",
+        "geo_work_programme_activity": {
+            "title": {
+                "en": "European Group on Earth Observations (EUROGEO)"
+            },
+            "id": "geo-activities-eurogeo"
+        },
+        "resource_type": {
+            "title": {
+                "en": "Dataset"
+            },
+            "id": "dataset"
+        },
+        "creators": [
+            {
+                "affiliations": [
+                    {
+                        "name": "Affiliation 0"
+                    }
+                ],
+                "person_or_org": {
+                    "family_name": "Zero",
+                    "name": "Zero, Author",
+                    "given_name": "Author",
+                    "type": "personal"
+                }
+            },
+            {
+                "affiliations": [
+                    {
+                        "name": "Affiliation 1"
+                    }
+                ],
+                "person_or_org": {
+                    "family_name": "One",
+                    "name": "One, Author",
+                    "given_name": "Author",
+                    "email": "author1@example.com",
+                    "type": "personal"
+                }
+            }
+        ],
+        "engagement_priorities": [
+            {
+                "title": {
+                    "en": "(SDG) Goal 4 - Quality Education"
+                },
+                "id": "sdg-goal-4"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "earth observation"
+            },
+            {
+                "subject": "switzerland"
+            }
+        ]
+    }
+}

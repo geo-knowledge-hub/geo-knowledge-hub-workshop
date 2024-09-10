@@ -1,43 +1,47 @@
 {
    "knowledge_package": {
       "metadata_file": "metadata/package/metadata.json",
-      "files": [],
+      "files": [
+         "files/documents/file.pdf"
+      ],
       "options": {
          "include_doi": true
       }
    },
    "resources": [
       {
-         "metadata_file": "metadata/resources/cropwatch-article/metadata.json",
-         "files": [],
-         "options": {
-            "include_doi": true
-         }
-      },
-      {
-         "metadata_file": "metadata/resources/cropwatch-dataset/metadata.json",
+         "metadata_file": "metadata/resources/article/metadata.json",
          "files": [
-            "files/documents/CropWatch Indicators.pdf"
+            "files/documents/file.pdf"
          ],
          "options": {
             "include_doi": true
          }
       },
       {
-         "metadata_file": "metadata/resources/cropwatch-others/metadata.json",
-         "files": [],
+         "metadata_file": "metadata/resources/dataset/metadata.json",
+         "files": [
+            "files/dataset/dataset.zip"
+         ],
          "options": {
             "include_doi": true
          }
       },
       {
-         "metadata_file": "metadata/resources/cropwatch-software-1/metadata.json",
+         "metadata_file": "metadata/resources/software/metadata.json",
+         "files": [
+            "files/software/notebook.ipynb",
+            "files/software/tool.zip"
+         ],
          "options": {
             "include_doi": true
          }
       },
       {
-         "metadata_file": "metadata/resources/cropwatch-software-2/metadata.json",
+         "metadata_file": "metadata/resources/story/metadata.json",
+         "files": [
+            "files/documents/file.pdf"
+         ],
          "options": {
             "include_doi": true
          }

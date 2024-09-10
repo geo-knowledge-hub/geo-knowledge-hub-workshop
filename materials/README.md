@@ -2,8 +2,8 @@
 
 This directory has extra materials that complement the GEO Knowledge Hub workshop. The following materials are available:
 
-**Example 1: CropWatch example Knowledge Package**
+**Example 1: Generic Knowledge Package**
 
-This example presents an example of a Knowledge Package. This example was created using content from the [CropWatch Knowledge Package](https://gkhub.earthobservations.org/packages/pps5h-ea276) available in the GEO Knowledge Hub
+This is an example of a Knowledge Package composed of multiple elements, including `article`, `dataset`, `software` and `user story`.
 
 [Click here to access](./example-package/)
