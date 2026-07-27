@@ -4,7 +4,7 @@ This directory holds the materials that complement the GEO Knowledge Hub worksho
 
 **NEOSS 2026 bundle**
 
-The example files used in the hands-on activities of the SA-GEO Knowledge Hub Training — a climate projection study with its processing script, result tables, presentation and data management plan. Participants use the bundle to publish a Knowledge Package by hand, and again to produce one with AI assistance.
+The example files used in the hands-on activities of the SA-GEO Knowledge Hub Training, a climate projection study with its processing script, result tables, presentation and data management plan. Participants use the bundle to publish a Knowledge Package by hand, and again to produce one with AI assistance.
 
 [Click here to access](./neoss-2026/)
 
