@@ -12,28 +12,29 @@
                         "coordinates": [
                             [
                                 [
-                                    -4.670653732457282,
-                                    41.27732135543212
+                                    16.45,
+                                    -22.13
                                 ],
                                 [
-                                    -4.670653732457282,
-                                    39.53030839119475
+                                    16.45,
+                                    -34.83
                                 ],
                                 [
-                                    -2.577959766425977,
-                                    39.53030839119475
+                                    32.95,
+                                    -34.83
                                 ],
                                 [
-                                    -2.577959766425977,
-                                    41.27732135543212
+                                    32.95,
+                                    -22.13
                                 ],
                                 [
-                                    -4.670653732457282,
-                                    41.27732135543212
+                                    16.45,
+                                    -22.13
                                 ]
                             ]
                         ]
-                    }
+                    },
+                    "place": "South Africa"
                 }
             ]
         },
@@ -84,13 +85,13 @@
         ],
         "version": "v1",
         "publisher": "GEO Knowledge Hub",
-        "publication_date": "2024-09-08",
+        "publication_date": "2026-07-27",
         "description": "<p>This is an example of a dataset uploaded to the GEO Knowledge Hub</p>",
         "geo_work_programme_activity": {
             "title": {
-                "en": "European Group on Earth Observations (EUROGEO)"
+                "en": "Digital Earth Africa (DE-AFRICA)"
             },
-            "id": "geo-activities-eurogeo"
+            "id": "geo-activities-de-africa"
         },
         "resource_type": {
             "title": {
@@ -140,7 +141,7 @@
                 "subject": "earth observation"
             },
             {
-                "subject": "switzerland"
+                "subject": "south africa"
             }
         ]
     }

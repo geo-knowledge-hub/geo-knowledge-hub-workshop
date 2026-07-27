@@ -12,59 +12,29 @@
             "coordinates": [
               [
                 [
-                  9.228516,
-                  35.839622
+                  16.45,
+                  -22.13
                 ],
                 [
-                  9.228516,
-                  45.545605
+                  16.45,
+                  -34.83
                 ],
                 [
-                  20.039063,
-                  45.545605
+                  32.95,
+                  -34.83
                 ],
                 [
-                  20.039063,
-                  35.839622
+                  32.95,
+                  -22.13
                 ],
                 [
-                  9.228516,
-                  35.839622
+                  16.45,
+                  -22.13
                 ]
               ]
             ]
           },
-          "place": "Italy"
-        },
-        {
-          "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  -4.670653732457282,
-                  41.27732135543212
-                ],
-                [
-                  -4.670653732457282,
-                  39.53030839119475
-                ],
-                [
-                  -2.577959766425977,
-                  39.53030839119475
-                ],
-                [
-                  -2.577959766425977,
-                  41.27732135543212
-                ],
-                [
-                  -4.670653732457282,
-                  41.27732135543212
-                ]
-              ]
-            ]
-          },
-          "place": "Spain"
+          "place": "South Africa"
         }
       ]
     },
@@ -115,10 +85,10 @@
     ],
     "version": "v1",
     "publisher": "GEO Knowledge Hub",
-    "publication_date": "2024-09-08",
+    "publication_date": "2026-07-27",
     "related_identifiers": [
       {
-        "identifier": "https://gkhub.earthobservations.org/doc/docs/concepts/sharing-units/concepts-sharing-units-packages",
+        "identifier": "https://gkhub.earthobservations.org/doc/guides/concepts/sharing-units/knowledge-packages/",
         "scheme": "url",
         "relation_type": {
           "title": {
@@ -140,9 +110,9 @@
     "description": "<p>This is an <strong>example Knowledge Package</strong> designed to demonstrate the structure and content of a typical package within the GEO Knowledge Hub. It includes sample datasets, fictional case studies, user story, and example tools to illustrate how Earth observation data can be used for environmental analysis. This package is for demonstration purposes only and does not contain real data.</p>",
     "geo_work_programme_activity": {
       "title": {
-        "en": "European Group on Earth Observations (EUROGEO)"
+        "en": "Digital Earth Africa (DE-AFRICA)"
       },
-      "id": "geo-activities-eurogeo"
+      "id": "geo-activities-de-africa"
     },
     "resource_type": {
       "title": {
@@ -192,7 +162,7 @@
         "subject": "earth observation"
       },
       {
-        "subject": "switzerland"
+        "subject": "south africa"
       }
     ]
   }

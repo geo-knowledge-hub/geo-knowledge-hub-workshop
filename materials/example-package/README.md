@@ -31,8 +31,8 @@ make package-load GKHUB_API_ADDRESS= GKHUB_API_TOKEN=
 The parameters used in the make target above are:
 
 - `GKHUB_API_ADDRESS`: Address of the GEO Knowledge Hub Rest API (e.g., `gkhub.earthobservations.org`)
-- `GKHUB_API_TOKEN`: Rest API `access token` from a [Knowledge Provider account](https://gkhub.earthobservations.org/doc/docs/concepts/concepts-user-roles#knowledge-provider) (e.g., `LdGANqNilmUIRqjAhche`). You can create this token in the [GEO Knowledge Hub user panel](https://gkhub.earthobservations.org/account/settings/applications/). You need to be logged in to do that.
+- `GKHUB_API_TOKEN`: Rest API `access token` from a [Knowledge Provider account](https://gkhub.earthobservations.org/doc/guides/concepts/user-roles/#knowledge-provider) (e.g., `LdGANqNilmUIRqjAhche`). You can create this token in the [GEO Knowledge Hub user panel](https://gkhub.earthobservations.org/account/settings/applications/). You need to be logged in to do that.
 
 **2. Publish the Knowledge Package**
 
-Now, the Knowledge Package is loaded in the GEO Knowledge Hub. To publish it, you can use the the GEO Knowledge Hub interface.
+Now, the Knowledge Package is loaded in the GEO Knowledge Hub. To publish it, you can use the GEO Knowledge Hub interface.

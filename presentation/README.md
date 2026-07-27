@@ -1,6 +1,5 @@
-# GEO Knowledge Hub + EuroGEO Project
+# Presentations
 
-Presentation for the EuroGEO Project workshop. The presentation is available in the following formats:
+Presentation files for the **SA-GEO Knowledge Hub Training** at the 2026 NEOSS Communities of Practice Integrated Workshop.
 
-1. [PDF file](https://github.com/geo-knowledge-hub/geo-knowledge-hub-workshop/blob/main/presentation/GEO%20Knowledge%20Hub%20Workshop%20-%20EuroGEO%20-%202024.pdf)
-2. [PPTX file](https://github.com/geo-knowledge-hub/geo-knowledge-hub-workshop/blob/main/presentation/GEO%20Knowledge%20Hub%20Workshop%20-%20EuroGEO%20-%202024.pptx)
+> The final version of this presentation will be availble on the GEO Knowledge Hub
